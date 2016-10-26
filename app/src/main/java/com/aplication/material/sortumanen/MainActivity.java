@@ -6,11 +6,22 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import com.aplication.material.sortumanen.retrofit.GithubServiceImpl;
+
 public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        initView();
+    }
+
+    /**
+     *
+     */
+    private void initView() {
+        GithubServiceImpl githubService = new GithubServiceImpl();
+        githubService.init();
     }
 
 

@@ -7,6 +7,6 @@ import retrofit2.http.Path;
 import rx.Observable;
 
 interface GithubService {
-    @GET("users/{user}")
-    Observable<Github> getGithubUser(@Path("username") String user);
+    @GET("users/{username}")
+    Observable<Github> getGithubUser(@Path("username") String username);
 }

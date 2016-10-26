@@ -8,13 +8,18 @@ import com.aplication.material.sortumanen.models.Github;
 import retrofit2.Retrofit;
 import retrofit2.adapter.rxjava.RxJavaCallAdapterFactory;
 import retrofit2.converter.gson.GsonConverterFactory;
+import rx.Notification;
 import rx.Observable;
 import rx.android.schedulers.AndroidSchedulers;
+import rx.functions.Action1;
 import rx.schedulers.Schedulers;
 
 public class GithubServiceImpl {
     private static final String TAG = "GithubServiceImpl";
 
+    /**
+     * github service implementation
+     */
     public void init() {
         Retrofit retrofit = new Retrofit.Builder()
                 .addCallAdapterFactory(RxJavaCallAdapterFactory.create())
@@ -27,7 +32,7 @@ public class GithubServiceImpl {
 
         githubUser.subscribeOn(Schedulers.newThread())
                 .observeOn(AndroidSchedulers.mainThread())
-                .subscribe(o -> { Log.e(TAG, o.toString()); });
+                .subscribe(o -> { Log.e(TAG, o.getEmail() + o.getName()); });
 
     }
 }
