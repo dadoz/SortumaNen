@@ -3,6 +3,8 @@ package com.aplication.material.sortumanen.retrofit;
 
 import android.util.Log;
 
+import com.aplication.material.sortumanen.models.Github;
+
 import retrofit2.Retrofit;
 import retrofit2.adapter.rxjava.RxJavaCallAdapterFactory;
 import retrofit2.converter.gson.GsonConverterFactory;
