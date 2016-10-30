@@ -1,30 +1,8 @@
 package com.aplication.material.sortumanen;
-
-
-import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.aplication.material.sortumanen.retrofit.GithubServiceImpl;
-
-public class MainActivity extends AppCompatActivity {
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
-        initView();
-    }
-
-    /**
-     *
-     */
-    private void initView() {
-        GithubServiceImpl githubService = new GithubServiceImpl();
-        githubService.init();
-    }
-
-
+public class MainActivity extends BaseActivity {
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.menu_main, menu);
@@ -41,4 +19,12 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
+    /**
+     * init view after injecting frag
+     */
+    @Override
+    public void initView() {
+//        GithubServiceImpl githubService = new GithubServiceImpl();
+//        githubService.init();
+    }
 }

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "378519554769",
+    "firebase_url": "https://sortuma-nen.firebaseio.com",
+    "project_id": "sortuma-nen",
+    "storage_bucket": "sortuma-nen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378519554769:android:fcfef757a832647b",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378519554769-24pft50h2tira6e0ptu39arur6ut5ki9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxN4CODjva6Vff3Vy5IHCTq196QdcSNzY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
