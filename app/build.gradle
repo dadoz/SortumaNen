@@ -49,6 +49,9 @@ dependencies {
     compile 'com.google.firebase:firebase-auth:9.8.0'
     compile 'com.google.firebase:firebase-database:9.8.0'
 
+    //joda time
+    compile 'joda-time:joda-time:2.9.4'
+
 
     //butterknife
     compile 'com.jakewharton:butterknife:8.4.0'

@@ -2,10 +2,27 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
+    <RelativeLayout
+        android:id="@+id/eventFilterContainerId"
+        android:layout_width="match_parent"
+        android:layout_height="40dp">
+        <TextView
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/padding_16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/filters"
+            android:textColor="@color/amber_600"
+            android:textSize="14sp"/>
+    </RelativeLayout>
+    <!--<include layout="@layout/event_filters_layout"/>-->
     <android.support.v7.widget.RecyclerView
-        android:padding="16dp"
+        android:layout_below="@id/eventFilterContainerId"
         android:id="@+id/eventRecyclerviewId"
+        android:paddingTop="@dimen/padding_16"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
     </android.support.v7.widget.RecyclerView>
+
 </RelativeLayout>

@@ -4,7 +4,9 @@
     app:cardBackgroundColor="@color/cardview_dark_background"
     android:layout_width="match_parent"
     android:minHeight="60dp"
-    android:layout_marginBottom="16dp"
+    android:layout_marginBottom="@dimen/padding_16"
+    android:layout_marginLeft="@dimen/padding_16"
+    android:layout_marginRight="@dimen/padding_16"
     android:layout_height="wrap_content">
     <RelativeLayout
         android:layout_width="match_parent"
@@ -16,7 +18,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="8dp"
-            android:textSize="12sp"
+            android:textSize="18sp"
             android:text="type"/>
         <TextView
             android:id="@+id/eventTimestampId"
@@ -29,7 +31,7 @@
         <TextView
             android:id="@+id/eventTitleId"
             android:layout_below="@id/eventTypeId"
-            android:textColor="@color/pink_500"
+            android:textColor="@color/amber_600"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="title event"

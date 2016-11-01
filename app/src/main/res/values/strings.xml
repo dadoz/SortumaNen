@@ -8,4 +8,8 @@
     <string name="hello_world">Hello world!</string>
 
     <string name="action_settings">Settings</string>
+    <string name="filters">FILTERS</string>
+    <string name="type_filter">type</string>
+    <string name="day_filter">day</string>
+    <string name="month_filter">month</string>
 </resources>

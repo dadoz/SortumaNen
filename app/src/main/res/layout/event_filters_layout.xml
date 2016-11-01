@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/pink_500"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/padding_16">
+    <!-- TYPE -->
+    <TextView
+        android:id="@+id/typeFilterLabelId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/type_filter"
+        android:textSize="@dimen/font_size_24"
+        android:textColor="@color/pink_900"/>
+    <ImageView
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/typeFilterLabelId"/>
+
+    <RelativeLayout
+        android:id="@+id/typeFilterContentId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/typeFilterLabelId"
+        android:layout_marginTop="@dimen/padding_8">
+        <TextView
+            android:id="@+id/culturaliFilterLabelId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/padding_16"
+            android:maxWidth="@dimen/max_width_content_type_filter"
+            android:text="Culturali e Sacri"/>
+        <TextView
+            android:id="@+id/eventiFilteLabelId"
+            android:layout_toRightOf="@id/culturaliFilterLabelId"
+            android:layout_marginRight="@dimen/padding_16"
+            android:maxWidth="@dimen/max_width_content_type_filter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Eventi"/>
+
+        <TextView
+            android:id="@+id/sagreFilterLabelId"
+            android:layout_toRightOf="@id/eventiFilteLabelId"
+            android:maxWidth="@dimen/max_width_content_type_filter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sagre e e fiera tartufo"/>
+
+    </RelativeLayout>
+
+    <!-- DAY -->
+    <TextView
+        android:id="@+id/dayFilterLabelId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/typeFilterContentId"
+        android:textSize="@dimen/font_size_24"
+        android:textColor="@color/pink_900"
+        android:text="@string/day_filter"/>
+    <CalendarView
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/grey_200"/>
+
+    <!-- MONTH -->
+    <TextView
+        android:id="@+id/monthFilterLabelId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/dayFilterLabelId"
+        android:textSize="@dimen/font_size_24"
+        android:textColor="@color/pink_900"
+        android:text="@string/month_filter"/>
+    <CalendarView
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/grey_200"/>
+</RelativeLayout>
