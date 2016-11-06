@@ -124,7 +124,6 @@ public abstract class EventsBaseFragment extends Fragment {
         initFilters();
     }
 
-    protected abstract void initFilters();
 
     /**
      * init firebase adapter
@@ -148,6 +147,11 @@ public abstract class EventsBaseFragment extends Fragment {
 //    public String getUid() {
 //        return FirebaseAuth.getInstance().getCurrentUser().getUid();
 //    }
+
+    /**
+     *
+     */
+    protected abstract void initFilters();
 
     /**
      *

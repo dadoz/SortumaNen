@@ -1,0 +1,1244 @@
+{
+  "events" : {
+    "ffd16280-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Castelnuovo Don Bosco",
+      "timestamp" : "1475272800000",
+      "title" : "Festival Teatrale \"Basta che siate giovani perchè io vi ami assai\"fino al 1 ottobre",
+      "type" : "eventi-culturali",
+      "url" : "http://www.gabrieleaccomazzo.it"
+    },
+    "ffd16281-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Palazzo Mazzetti",
+      "timestamp" : "1475272800000",
+      "title" : "Mostra \"Francesco Menzio. Un Maestro del Novecento\" fino al 4 dicembre",
+      "type" : "eventi-culturali",
+      "url" : "http://www.palazzomazzetti.it/?p=6842"
+    },
+    "ffd16282-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Fondazione Eugenio Guglielminetti - Palazzo Alfieri, Corso Alfieri 375 (apertura da giovedì a domenica ore 16,30-18,30)",
+      "timestamp" : "1475272800000",
+      "title" : "Mostra di Arte contemporanea \"Mauro Chessa. La grande mela\" fino al 9 ottobre",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.asti.it"
+    },
+    "ffd18990-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Piovà Massaia",
+      "timestamp" : "1475272800000",
+      "title" : "1^ Ed. Rassegna-Concorso in lingua piemontese",
+      "type" : "eventi-culturali"
+    },
+    "ffd18991-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Moncalvo - Museo Civico (sab. e dom. dalle ore 10 alle ore 18)",
+      "timestamp" : "1475272800000",
+      "title" : "Mostra \"Una tela riscoperta\" fino al 02/10",
+      "type" : "eventi-culturali"
+    },
+    "ffd18992-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Moncalvo - Teatro Comunale ore 21",
+      "timestamp" : "1475272800000",
+      "title" : "XXXIV Stagione di teatro in lingua piemontese \"Comedia de l'homo e de soy cinque sentimenti\"",
+      "type" : "eventi-culturali"
+    },
+    "ffd18993-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Spazio San Giovanni (venerdì 15-18, sabato e domenica 9.30-13/15-18)",
+      "timestamp" : "1475272800000",
+      "title" : "Mostra collettiva \"La Via della Misericordia\" fino al 20/11",
+      "type" : "eventi-culturali",
+      "url" : "http://museo.sicdat.it/eventi/icalrepeat.detail/2016/10/01/56/32|29|31|30|35|33/la-via-della-misericordia"
+    },
+    "ffd18994-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Costigliole d’Asti - Castello ore 17.30",
+      "timestamp" : "1475272800000",
+      "title" : "Presentazione del libro “Con parole leggere” di Agnese Bianco   ",
+      "type" : "eventi-culturali"
+    },
+    "ffd18995-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Bubbio - Località S. Grato",
+      "timestamp" : "1475272800000",
+      "title" : "Mostra \"Vignette... in Vigna\" fino al 31 dicembre",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.bubbio.at.it"
+    },
+    "ffd18996-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Monastero Bormida - Castello medievale (venerdì, sabato e domenica 16-19)",
+      "timestamp" : "1475272800000",
+      "title" : "Castello in mostra: \"Ceramiche, vetri, emozioni\" personale di Roberto Giannotti - fino al 18/10",
+      "type" : "eventi-culturali",
+      "url" : "http://ww.comune.monasterobormida.at.it"
+    },
+    "ffd1b0a0-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Monastero Bormida - Castello medievale",
+      "timestamp" : "1475272800000",
+      "title" : "Castello in mostra: \"Alcyone\" fino al 2/10",
+      "type" : "eventi-culturali"
+    },
+    "ffd1b0a1-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Palazzo della Cassa di Risparmio e Palazzo Mazzetti ore 10-19",
+      "timestamp" : "1475272800000",
+      "title" : "XV°Invito a Palazzo - Arte e Storia nelle Banche e nelle Fondazioni di Origine bancaria con ingresso gratuito",
+      "type" : "eventi-culturali",
+      "url" : "http://palazzi.abi.it/"
+    },
+    "ffd1b0a2-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Castelnuovo Don Bosco",
+      "timestamp" : "1475272800000",
+      "title" : "Concorso teatrale Gabriele Accomazzo IV edizione",
+      "type" : "eventi-culturali",
+      "url" : "http://www.gabrieleaccomazzo.it "
+    },
+    "ffd1b0a3-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Portacomaro - Casa dell'artista (sabato 16-18; domenica 10.30-12/16-18)",
+      "timestamp" : "1475272800000",
+      "title" : "\"Lo spirito dei luoghi - Quattro fotografi attraverso il Piemonte\" fino al 16/10",
+      "type" : "eventi-culturali"
+    },
+    "ffd1b0a4-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Costigliole d'Asti - Castello (sabato e domenica 16-19.30)",
+      "timestamp" : "1475272800000",
+      "title" : "Scatti d'Autore fino al 13/11",
+      "type" : "eventi-culturali",
+      "url" : "http://www.scattidautoreat.it/114-2/"
+    },
+    "ffd1b0a5-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Albugnano - Canonica di Santa Maria di Vezzolano ",
+      "timestamp" : "1475272800000",
+      "title" : "Giornate Europee del Patrimonio \"Al tempo dell’Anno Mille\" X Incontro studi Percorsi del Romanico astigiano",
+      "type" : "eventi-culturali",
+      "url" : "http://www.lacabalesta.it"
+    },
+    "ffd1b0a6-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Fondazione Giov-Anna Piras di Asti - via Brofferio 80 (da lunedì a sabato 9.30-12.30; da martedì a venerdì su appuntamento +39 0141 352111)",
+      "timestamp" : "1475272800000",
+      "title" : "Mostra \"Professione Reporter\" prorogata fino al 28 ottobre ",
+      "type" : "eventi-culturali"
+    },
+    "ffd1d7b0-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Museo Civico Palazzo Mazzetti da martedì a domenica 9.30-19.30 - chiuso lunedì ",
+      "timestamp" : "1475272800000",
+      "title" : "Mostra \"Gioielli Fantasia. Sogni americani\" fino al 2 ottobre",
+      "type" : "eventi-culturali",
+      "url" : "http://www.palazzomazzetti.it"
+    },
+    "ffd1d7b1-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Baldichieri d'Asti",
+      "timestamp" : "1475272800000",
+      "title" : "1/2 Festa Patronale della Madonna del Rosario",
+      "type" : "feste-patronali-e-religiose",
+      "url" : "http://www.comune.baldichieridasti.at.it"
+    },
+    "ffd1d7b2-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Celle Enomondo - Cortile della Casa di Riposo ore 19",
+      "timestamp" : "1475272800000",
+      "title" : "1/2 Pizza d'Autunno",
+      "type" : "enogastronomia",
+      "url" : "http://www.comune.celleenomondo.at.it"
+    },
+    "ffd1d7b3-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Villa San Secondo",
+      "timestamp" : "1475272800000",
+      "title" : "Pizza in piazza",
+      "type" : "enogastronomia"
+    },
+    "ffd1d7b4-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Frazione Castiglione",
+      "timestamp" : "1475272800000",
+      "title" : "1/2 Non solo polenta",
+      "type" : "enogastronomia",
+      "url" : "http://www.castiglioneasti.it"
+    },
+    "ffd1d7b5-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Portacomaro",
+      "timestamp" : "1475272800000",
+      "title" : "Festa dell' Uva-Vigna del Papa",
+      "type" : "enogastronomia",
+      "url" : "http://www.comune.portacomaro.at.it"
+    },
+    "ffd1d7b6-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - centro storico",
+      "timestamp" : "1475272800000",
+      "title" : "Notte Rosa ",
+      "type" : "feste",
+      "url" : "http://www.comune.asti.it"
+    },
+    "ffd1d7b7-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Piazza San Secondo e vie del centro storico - dalle 15,30 alle 20",
+      "timestamp" : "1475272800000",
+      "title" : "1/2 Magikalia - Asti Street Magic Festival",
+      "type" : "feste",
+      "url" : "http://www.comune.asti.it"
+    },
+    "ffd1d7b8-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Villanova d'Asti",
+      "timestamp" : "1475272800000",
+      "title" : "Elogio della Bionda fino al 02/10",
+      "type" : "fiere-mercati-e-tartufo",
+      "url" : "http://www.vnat.it/"
+    },
+    "ffd1fec0-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Mombaldone",
+      "timestamp" : "1475272800000",
+      "title" : "Fiera del Montone Grasso",
+      "type" : "fiere-mercati-e-tartufo",
+      "url" : "http://www.comune.mombaldone.at.it"
+    },
+    "ffd1fec1-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Piazza San Secondo e Piazza Statuto",
+      "timestamp" : "1475272800000",
+      "title" : "\"Mercato delle Regioni\" fino al 2 ottobre",
+      "type" : "fiere-mercati-e-tartufo",
+      "url" : "http://www.comune.asti.it"
+    },
+    "ffd1fec2-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Cortanze",
+      "timestamp" : "1475272800000",
+      "title" : "1/2 Sagra della Meliga",
+      "type" : "fiere-mercati-e-tartufo",
+      "url" : "http://www.comune.cortanze.at.it/"
+    },
+    "ffd1fec3-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Monastero Bormida - Partenza ogni ora dalle 15 alle 18",
+      "timestamp" : "1475359200000",
+      "title" : "Castelli Aperti - Visita al castello medievale e alla chiesa parrocchiale ",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.monasterobormida.at.it/"
+    },
+    "ffd1fec4-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "San Martino Alfieri - chiesa parrocchiale ore 16",
+      "timestamp" : "1475359200000",
+      "title" : " Cantantibus Organis - Jordi Verges",
+      "type" : "eventi-culturali",
+      "url" : "http://www.idilim.it"
+    },
+    "ffd1fec5-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Costigliole d'Asti, chiesa Confraternita di San Gerolamo ore 16-18",
+      "timestamp" : "1475359200000",
+      "title" : " Visita al Museo \"Arte Sacra\" ",
+      "type" : "eventi-culturali",
+      "url" : "http://www.museoartesacracostiglioleat.it"
+    },
+    "ffd1fec6-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Grazzano Badoglio (15-17.30)",
+      "timestamp" : "1475359200000",
+      "title" : "Apertura con visite guidate del Museo Badoglio, della Chiesa Parrocchiale e del Chiostro (fino a novembre)",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.grazzanobadoglio.at.it/"
+    },
+    "ffd1fec7-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Monastero Bormida - Castello medievale, sottotetti nella prima sala espositiva ore 18",
+      "timestamp" : "1475359200000",
+      "title" : "Finissage di chiusura della mostra \"Alcyone\" ",
+      "type" : "eventi-culturali"
+    },
+    "ffd1fec8-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Montiglio Monferrato- Piazza San Rocco ore 16.30",
+      "timestamp" : "1475359200000",
+      "title" : "Castello in Musica 2016 \"Careelon - musica irlandese\"",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.montigliomonferrato.at.it"
+    },
+    "ffd225d0-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Viarigi (15.30/18.30)",
+      "timestamp" : "1475359200000",
+      "title" : "Torre dei Segnali - Apertura al pubblico",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.viarigi.at.it"
+    },
+    "ffd225d1-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Castelnuovo Don Bosco - Colle Don Bosco",
+      "timestamp" : "1475359200000",
+      "title" : "Festa della Madonna del Rosario - Processione al castello",
+      "type" : "feste-patronali-e-religiose",
+      "url" : "http://www.comune.castelnuovodonbosco.at.it"
+    },
+    "ffd225d2-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Montiglio Monferrato ",
+      "timestamp" : "1475359200000",
+      "title" : "Fiera Regionale del Tartufo - Premio Cane d'Argento",
+      "type" : "fiere-mercati-e-tartufo",
+      "url" : "http://www.montigliom.at.it/wp/"
+    },
+    "ffd225d3-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Moncalvo",
+      "timestamp" : "1475359200000",
+      "title" : "Mercatino dell'antiquariato",
+      "type" : "fiere-mercati-e-tartufo",
+      "url" : "http://www.comune.moncalvo.at.it"
+    },
+    "ffd225d4-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Cisterna d'Asti - Castello dalle ore 14,30",
+      "timestamp" : "1475359200000",
+      "title" : "\"Mercandé\" - con la radio non si smette di pensare ",
+      "type" : "fiere-mercati-e-tartufo",
+      "url" : "http://www.museoartiemestieri.it/nuovo/index.php"
+    },
+    "ffd225d5-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Rifugio Valmanera Loc. Valmanera 69/A - ritrovo iscrizioni ore 9-10.30, partenza ore 11",
+      "timestamp" : "1475359200000",
+      "title" : "Marcè pedalè mangè n'ti bosch ad' Valmanera",
+      "type" : "gare-ed-eventi-sportivi",
+      "url" : "http://www.comune.asti.it"
+    },
+    "ffd225d6-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Piazza Roma ore 8-11",
+      "timestamp" : "1475359200000",
+      "title" : "Raduno Fiat 500",
+      "type" : "gare-ed-eventi-sportivi",
+      "url" : "http://www.comune.asti.it"
+    },
+    "ffd225d7-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Mombaruzzo - Via Guasti 34, Frazione Casalotto",
+      "timestamp" : "1475359200000",
+      "title" : "II open di Scacchi - semilampo tra i vigneti dell'Unesco",
+      "type" : "gare-ed-eventi-sportivi"
+    },
+    "ffd273f0-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Piazza Alfieri e Piazza Libertà",
+      "timestamp" : "1475359200000",
+      "title" : "Sport in Piazza",
+      "type" : "gare-ed-eventi-sportivi",
+      "url" : "http://www.comune.asti.it/"
+    },
+    "ffd273f1-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Parco della Resistenza 10-18 (in caso di maltempo sarà posticipato al 9/10)",
+      "timestamp" : "1475359200000",
+      "title" : "Liberamente in 1/2 parco ",
+      "type" : "gare-ed-eventi-sportivi",
+      "url" : "http://www.comune.asti.it"
+    },
+    "ffd273f2-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Monale",
+      "timestamp" : "1475359200000",
+      "title" : "Legambiente Valtriversa - camminata \"I colori dell'autunno\"",
+      "type" : "gare-ed-eventi-sportivi",
+      "url" : "http://www.comune.monale.at.it/"
+    },
+    "ffd273f3-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Fondazione Biblioteca Astense Giorgio Faletti Via Goltieri 3/a",
+      "timestamp" : "1475445600000",
+      "title" : "Cabaret viola: la poesia in città - Shakespeare",
+      "type" : "eventi-culturali"
+    },
+    "ffd273f4-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Biblioteca Astense G. Faletti (via Goltieri 3/a) ",
+      "timestamp" : "1475704800000",
+      "title" : "Fotobar alla Biblioteca Astense Giorgio Faletti: mostra “Una Piemontese in Calabria” di  Paola Grattarola",
+      "type" : "eventi-culturali",
+      "url" : "http://www.bibliotecastense.it/fondazione-biblioteca-astense-giorgio-faletti/"
+    },
+    "ffd273f5-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Castellero",
+      "timestamp" : "1475704800000",
+      "title" : "6/9 34^ Sagra \"Città della nocciola\"",
+      "type" : "fiere-mercati-e-tartufo",
+      "url" : "http://www.comune.castellero.at.it/"
+    },
+    "ffd273f6-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Nizza Monferrato - Auditorium Trinità, via Cordara",
+      "timestamp" : "1475791200000",
+      "title" : "XV Stagione Musicale ",
+      "type" : "eventi-culturali"
+    },
+    "ffd273f7-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "San Damiano d'Asti",
+      "timestamp" : "1475791200000",
+      "title" : "Incontro con Sandro Donati e Alex Schwafer - presentazione libro",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.sandamiano.at.it/"
+    },
+    "ffd273f8-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Villa San Secondo",
+      "timestamp" : "1475791200000",
+      "title" : "10^Sagra dell'Agnolotto d'Oca - 13^Sagra del Friceu - Mercatino fino al 9 ottobre",
+      "type" : "enogastronomia"
+    },
+    "ffd273f9-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Viarigi - Chiesa di San Silverio - ore 21",
+      "timestamp" : "1475877600000",
+      "title" : " Cuntè Munfrà - \"Paisan. Ritratti di gente di collina\"",
+      "type" : "eventi-culturali",
+      "url" : "http://www.casadeglialfieri.it/"
+    },
+    "ffd273fa-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Nizza Monferrato - Auditorium Trinità, via Cordara",
+      "timestamp" : "1475877600000",
+      "title" : "XV Stagione Musicale ",
+      "type" : "eventi-culturali"
+    },
+    "ffd273fb-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Moncalvo - Teatro Comunale ore 21",
+      "timestamp" : "1475877600000",
+      "title" : "XXXIV Stagione di teatro in lingua piemontese  \"Agensia Cervo\"",
+      "type" : "eventi-culturali"
+    },
+    "ffd29b00-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Moncalvo - Museo Civico (sab. e dom. dalle ore 10 alle ore 18)",
+      "timestamp" : "1475877600000",
+      "title" : "Mostra \"Arte Giapponese - Oriente bellezza armonia\" fino al 11/12",
+      "type" : "eventi-culturali",
+      "url" : "http://www.provincia.asti.it/hosting/moncalvo/"
+    },
+    "ffd29b01-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Piovà Massaia - Tensostruttura di Piazza San Martino ore 21",
+      "timestamp" : "1475877600000",
+      "title" : "IV^ Edizione Concerto d'Autunno  - Compagnia \"Spasso Carrabile\" e Coro \"Rondanin-i del Piemont\"",
+      "type" : "eventi-culturali"
+    },
+    "ffd29b02-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Sala del Coro Archivio di Stato di Asti ore 17.30/19.30",
+      "timestamp" : "1475877600000",
+      "title" : "Premio Piazzalfieri 2016",
+      "type" : "eventi-culturali"
+    },
+    "ffd29b03-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Teatro Giraudi (ex Chiesa di P.zza San Giuseppe) ore 21",
+      "timestamp" : "1475877600000",
+      "title" : "Quattro Danze coloniali viste da vicino",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.asti.it"
+    },
+    "ffd29b04-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Mombercelli - Musarmo ore 17",
+      "timestamp" : "1475877600000",
+      "title" : "Inaugurazione Mostra \"Nuove acquisizioni\" fino al 20 novembre",
+      "type" : "eventi-culturali",
+      "url" : "http://www.musarmo.comune.mombercelli.at.it"
+    },
+    "ffd29b05-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti, Santuario di San Giuseppe ore 21",
+      "timestamp" : "1475877600000",
+      "title" : "Rassegna \"Incanto Sacro\" - Gruppo Corale San Luigi Orione di Tortona",
+      "type" : "eventi-culturali",
+      "url" : "http://www.idilim.it"
+    },
+    "ffd29b06-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Agliano Terme",
+      "timestamp" : "1475877600000",
+      "title" : "8-9 Barbera & Champagne",
+      "type" : "enogastronomia",
+      "url" : "http://www.barbera-agliano.com"
+    },
+    "ffd29b07-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Castellero",
+      "timestamp" : "1475877600000",
+      "title" : "\"Nocciobimbo\" walking - 34^ Sagra \"Città della nocciola\"",
+      "type" : "fiere-mercati-e-tartufo",
+      "url" : "http://www.comune.castellero.at.it/"
+    },
+    "ffd29b08-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Bubbio - Parco Scultoreo Quirin Mayer ore 15",
+      "timestamp" : "1475964000000",
+      "title" : "Laboratorio didattico di fumetto a cura di Roby Giannotti",
+      "type" : "eventi-culturali"
+    },
+    "ffd29b09-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Costigliole d'Asti - Castel Burio ore 15",
+      "timestamp" : "1475964000000",
+      "title" : "Inaugurazione mostra personale “Fulvio Donorà, opere 2014/2000” fino al 22 ottobre ",
+      "type" : "eventi-culturali"
+    },
+    "ffd29b0a-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Musei della città",
+      "timestamp" : "1475964000000",
+      "title" : "Giornata Nazionale delle Famiglie al Museo",
+      "type" : "eventi-culturali",
+      "url" : "http://www.famigliealmuseo.it"
+    },
+    "ffd29b0b-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Castagnole delle Lanze - percorso museale conte Paolo di Saint Robert (14.30-18)",
+      "timestamp" : "1475964000000",
+      "title" : "Giornata Nazionale delle Famiglie al Museo",
+      "type" : "eventi-culturali",
+      "url" : "http://www.famigliealmuseo.it"
+    },
+    "ffd29b0c-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Montiglio Monferrato- Piazza San Rocco ore 16.30",
+      "timestamp" : "1475964000000",
+      "title" : "Castello in Musica 2016 \"Stefano Corona - acoustic live\"",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.montigliomonferrato.at.it"
+    },
+    "ffd2c210-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Mombercelli - Musarmo (domenica 15.30-18 o su appuntamento +39 3384246055; +39 346 4798585)",
+      "timestamp" : "1475964000000",
+      "title" : "Mostra \"Nuove acquisizioni\" fino al 20 novembre",
+      "type" : "eventi-culturali",
+      "url" : "http://www.musarmo.comune.mombercelli.at.it"
+    },
+    "ffd2c211-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Castell'Alfero - Sala Verde ore 18",
+      "timestamp" : "1475964000000",
+      "title" : "Presentazione del libro \"Coriandoli\" di Silvana Bego",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.castellalfero.at.it/"
+    },
+    "ffd2c212-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Viarigi (15.30/18.30)",
+      "timestamp" : "1475964000000",
+      "title" : "Torre dei Segnali - Apertura al pubblico",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.viarigi.at.it"
+    },
+    "ffd2c213-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Castell'Alfero - Inizio visita guidata ore 16.00 e ore 17.00",
+      "timestamp" : "1475964000000",
+      "title" : "Visita guidata al Castello e al Museo Etnografico \" 'L Ciar \"",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.castellalfero.at.it/"
+    },
+    "ffd2c214-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Montafia - Concentrico",
+      "timestamp" : "1475964000000",
+      "title" : "Palio degli Asini",
+      "type" : "rievocazioni-storiche",
+      "url" : "http://www.comune.montafia.asti.it"
+    },
+    "ffd2c215-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Incisa Scapaccino ",
+      "timestamp" : "1475964000000",
+      "title" : "Sagra del Cardo Gobbo e della Barbera ",
+      "type" : "enogastronomia",
+      "url" : "http://www.comune.incisascapaccino.at.it/"
+    },
+    "ffd2c216-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Castellero",
+      "timestamp" : "1475964000000",
+      "title" : "\"Nocciobimbo\" laboratori - 34^ Sagra \"Città della nocciola\"",
+      "type" : "fiere-mercati-e-tartufo",
+      "url" : "http://www.comune.castellero.at.it/"
+    },
+    "ffd2c217-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Centro storico",
+      "timestamp" : "1475964000000",
+      "title" : "Fiera d'autunno",
+      "type" : "fiere-mercati-e-tartufo",
+      "url" : "http://www.comune.asti.it/"
+    },
+    "ffd2c218-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Montiglio Monferrato ",
+      "timestamp" : "1475964000000",
+      "title" : "Fiera Regionale del Tartufo - Premio Cane d'Argento",
+      "type" : "fiere-mercati-e-tartufo",
+      "url" : "http://www.montigliom.at.it/wp/"
+    },
+    "ffd2c219-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Castelnuovo Don Bosco - Colle Don Bosco (partenza in bus per Albugnano ore 8,30) - Albugnano, Vezzolano ore 9 partenza per Sant'Eusebio, Mondonio e rientro al Colle Don Bosco ore 16,30 ",
+      "timestamp" : "1475964000000",
+      "title" : "Giornata Nazionale del Camminare - GTAA Grande Traversata dell'Alto Astigiano",
+      "type" : "gare-ed-eventi-sportivi",
+      "url" : "http://www.lacabalesta.it"
+    },
+    "ffd2c21a-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Fondazione Biblioteca Astense Giorgio Faletti Via Goltieri 3/a",
+      "timestamp" : "1476050400000",
+      "title" : "Cabaret viola: la poesia in città - La poesia nelle canzoni",
+      "type" : "eventi-culturali"
+    },
+    "ffd2e920-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Costigliole d'Asti - Castel Burio (visite su appuntamento +39 392 1650563; +39 335 5322415)",
+      "timestamp" : "1476050400000",
+      "title" : "Mostra personale “Fulvio Donorà, opere 2014/2000” fino al 22 ottobre ",
+      "type" : "eventi-culturali"
+    },
+    "ffd2e921-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "San Paolo Solbrito - Salone Conte Ernesto Gay di Montarolo ",
+      "timestamp" : "1476309600000",
+      "title" : "Mostra di opere di Enrico Paulucci fino al 27 ottobre",
+      "type" : "eventi-culturali"
+    },
+    "ffd2e922-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Dietro Le Quinte - Via Assauto 5",
+      "timestamp" : "1476309600000",
+      "title" : " 13-15 San Jorio Music Live Festival - semifinali",
+      "type" : "eventi-culturali",
+      "url" : "http://www.sanjoriofestival.it"
+    },
+    "ffd2e923-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "San Damiano d'Asti - Cinema Cristallo ore 21",
+      "timestamp" : "1476396000000",
+      "title" : "Rassegna autunnale di films d'autore \"Il condominio dei cuori infranti\"",
+      "type" : "eventi-culturali"
+    },
+    "ffd2e924-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Nizza Monferrato - Auditorium Trinità, via Cordara",
+      "timestamp" : "1476396000000",
+      "title" : "XV Stagione Musicale ",
+      "type" : "eventi-culturali"
+    },
+    "ffd2e925-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Calosso - sala don Pierino e Casa San Martino",
+      "timestamp" : "1476396000000",
+      "title" : "Mostre \"Lo spazio intorno a noi\" e \"Fermati un momento... nel mercato del colore\" di P. Viola fino al 16/10",
+      "type" : "eventi-culturali"
+    },
+    "ffd2e926-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Palazzo Mazzetti - ore 18",
+      "timestamp" : "1476396000000",
+      "title" : "Inaugurazione mostra: \"Corrado Cagli attualità per il tempo della continuità\"",
+      "type" : "eventi-culturali",
+      "url" : "http://www.palazzomazzetti.it/"
+    },
+    "ffd31030-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Palazzo Ottolenghi (sabato e domenica 10-13/15-19)",
+      "timestamp" : "1476482400000",
+      "title" : "Mostra \"Montemagno visto da... e i montemagnesi\" fino al 30/10",
+      "type" : "eventi-culturali"
+    },
+    "ffd31031-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Castelnuovo Don Bosco - Spazio Ala",
+      "timestamp" : "1476482400000",
+      "title" : "Teatro e Scienza: \"I Pitagorici\"",
+      "type" : "eventi-culturali"
+    },
+    "ffd31032-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Moncucco Torinese - Castello (apertura nei giorni festivi dalle 10 alle 19)",
+      "timestamp" : "1476482400000",
+      "title" : "WPA 2016 - Wildlife Photo Art fino al 30/10",
+      "type" : "eventi-culturali"
+    },
+    "ffd31033-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Palazzo Mazzetti ",
+      "timestamp" : "1476482400000",
+      "title" : "Mostra: \"Corrado Cagli attualità per il tempo della continuità\" fino al 4/12",
+      "type" : "eventi-culturali",
+      "url" : "http://www.palazzomazzetti.it/?p=6949"
+    },
+    "ffd31034-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Piovà Massaia - Piazza San Martino (10-12/15-18)",
+      "timestamp" : "1476482400000",
+      "title" : "15/16 Mostra personale di \"Loris Dalmasso\"",
+      "type" : "eventi-culturali"
+    },
+    "ffd31035-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Mombercelli - chiesa parrocchiale ore 21",
+      "timestamp" : "1476482400000",
+      "title" : "Cantantibus Organis - Fabio Macera",
+      "type" : "eventi-culturali",
+      "url" : "http://www.idilim.it"
+    },
+    "ffd31036-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Moncalvo - Teatro Comunale ore 21",
+      "timestamp" : "1476482400000",
+      "title" : "XXXIV Stagione di teatro in lingua piemontese  \"L'ardita d'magna Ninin\"",
+      "type" : "eventi-culturali"
+    },
+    "ffd31037-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Moncalvo - chiesa parrocchiale di San Francesco dalle 15.30",
+      "timestamp" : "1476482400000",
+      "title" : "Inaugurazione Museo: Sacrestia aperta di Moncalvo",
+      "type" : "eventi-culturali"
+    },
+    "ffd31038-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Teatro Alfieri ore 21",
+      "timestamp" : "1476482400000",
+      "title" : "Concerto per il cuore d'Italia",
+      "type" : "eventi-culturali"
+    },
+    "ffd31039-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Sala Pastrone ore 15.30",
+      "timestamp" : "1476482400000",
+      "title" : "Rassegna cinematografica \"La fabbrica di cioccolato\" - Kung fu Panda 3",
+      "type" : "eventi-culturali",
+      "url" : "http://www.salapastrone.it"
+    },
+    "ffd3103a-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - sede CPIA piazza Leonardo da Vinci 22",
+      "timestamp" : "1476482400000",
+      "title" : "Incontro su cultura e arte albanese \"Il volto umano tra la parola e l'immagine\" ",
+      "type" : "eventi-culturali"
+    },
+    "ffd3103b-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Costigliole d'Asti, chiesa Confraternita di San Gerolamo ore 16-18",
+      "timestamp" : "1476482400000",
+      "title" : "Visita al Museo \"Arte Sacra\" ",
+      "type" : "eventi-culturali",
+      "url" : "http://www.museoartesacracostiglioleat.it"
+    },
+    "ffd3103c-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Calliano ",
+      "timestamp" : "1476482400000",
+      "title" : "15/17 47^ ed. Paglio ragliante",
+      "type" : "feste-patronali-e-religiose",
+      "url" : "http://www.comune.calliano.at.it"
+    },
+    "ffd3103d-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Villa San Secondo - Fraz. San Carlo",
+      "timestamp" : "1476482400000",
+      "title" : "15/16 7^ Sagra della Bagna Cauda e della Trippa (Buseca)",
+      "type" : "enogastronomia"
+    },
+    "ffd3103e-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Grana - sabato ore 20.30, domenica ore 12.30",
+      "timestamp" : "1476482400000",
+      "title" : "15/16 Weekend enogastronomici \"Sapori d'autunno 2016\": Funghi e Tartufi",
+      "type" : "enogastronomia"
+    },
+    "ffd3103f-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Calosso",
+      "timestamp" : "1476482400000",
+      "title" : "15-16 Fiera del Rapulè",
+      "type" : "enogastronomia",
+      "url" : "http://fieradelrapule.it/"
+    },
+    "ffd31040-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Palazzo Mazzetti ore 15.30",
+      "timestamp" : "1476568800000",
+      "title" : "Palazzo Mazzetti for Kids - \"Un museo da fiaba\" (4-6 anni)",
+      "type" : "eventi-culturali",
+      "url" : "http://www.palazzomazzetti.it"
+    },
+    "ffd31041-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Viarigi (15.30/18.30)",
+      "timestamp" : "1476568800000",
+      "title" : "Torre dei Segnali - Apertura al pubblico",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.viarigi.at.it"
+    },
+    "ffd31042-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Grazzano Badoglio e Casorzo",
+      "timestamp" : "1476568800000",
+      "title" : "Il monferrato degli Infernot",
+      "type" : "eventi-culturali"
+    },
+    "ffd33740-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Chiesa della Santissima Trinità e Sant'Evasio, via Cavour (10-13/15-17) ",
+      "timestamp" : "1476568800000",
+      "title" : "FAI Marathon",
+      "type" : "eventi-culturali",
+      "url" : "http://www.fondoambiente.it/index.aspx"
+    },
+    "ffd33741-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Teatro Alfieri ore 21",
+      "timestamp" : "1476568800000",
+      "title" : "San Jorio Music Live Festival - finale",
+      "type" : "eventi-culturali",
+      "url" : "http://www.sanjoriofestival.it"
+    },
+    "ffd33742-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Palazzo Alfieri - Fondazione Eugenio Guglielminetti ore 17.30",
+      "timestamp" : "1476568800000",
+      "title" : "Inaugurazione Mostra \"Eugenio Guglielminetti. Dipinti, sculture e scenografie. Donazione di Giuseppe Orlandi\" fino al 12/11",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.asti.it"
+    },
+    "ffd33743-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - vani sotterranei di Palazzo Alfieri ",
+      "timestamp" : "1476568800000",
+      "title" : "Inaugurazione del nuovo percorso espositivo permanente \"Museo Eugenio Guglielminetti\" ",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.asti.it"
+    },
+    "ffd33744-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Montafia - Sede Pro Loco",
+      "timestamp" : "1476568800000",
+      "title" : "Festa Patronale di San Dionigi",
+      "type" : "feste-patronali-e-religiose",
+      "url" : "http://www-comune.montafia.at.it"
+    },
+    "ffd33745-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Portacomaro",
+      "timestamp" : "1476568800000",
+      "title" : "Festa delle Carita' di San Fantino",
+      "type" : "feste-patronali-e-religiose",
+      "url" : "http://www.comune.portacomaro.at.it"
+    },
+    "ffd33746-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Cossombrato - Loc.Galleria 2",
+      "timestamp" : "1476568800000",
+      "title" : "7° Fritto Misto",
+      "type" : "enogastronomia",
+      "url" : "http://www.comune.cossombrato.at.it"
+    },
+    "ffd33747-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Serole - Pro Loco",
+      "timestamp" : "1476568800000",
+      "title" : "41^ Sagra delle caldarroste",
+      "type" : "enogastronomia",
+      "url" : "http://www.comune.serole.at.it/"
+    },
+    "ffd33748-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Castelnuovo Belbo",
+      "timestamp" : "1476568800000",
+      "title" : "18^ Sagra della Polenta e Coniglio e 3^ Festa dei Bambini",
+      "type" : "enogastronomia"
+    },
+    "ffd33749-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Cortandone",
+      "timestamp" : "1476568800000",
+      "title" : "Festa delle Leve",
+      "type" : "feste",
+      "url" : "http://www.cortandone.gov.it/"
+    },
+    "ffd3374a-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Nizza Monferrato",
+      "timestamp" : "1476568800000",
+      "title" : "Mercatino dell'Antiquariato e dell'Agricoltura",
+      "type" : "fiere-mercati-e-tartufo",
+      "url" : "http://www.comune.nizza.asti.it"
+    },
+    "ffd3374b-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Ferrere",
+      "timestamp" : "1476568800000",
+      "title" : "Ferrere Miele – 3^ Fiera del miele e prodotti tipici",
+      "type" : "fiere-mercati-e-tartufo"
+    },
+    "ffd3374c-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Mombercelli - Centro Storico",
+      "timestamp" : "1476568800000",
+      "title" : "Fiera Regionale del Tartufo",
+      "type" : "fiere-mercati-e-tartufo",
+      "url" : "http://www.comune.mombercelli.at.it/"
+    },
+    "ffd3374d-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Moncalvo - piazza del Teatro ore 14.45",
+      "timestamp" : "1476568800000",
+      "title" : "Camminare il Monferrato",
+      "type" : "gare-ed-eventi-sportivi"
+    },
+    "ffd3374e-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Ospedale Cardianal Massaia",
+      "timestamp" : "1476568800000",
+      "title" : "Asti in cammino - Città della salute",
+      "type" : "gare-ed-eventi-sportivi"
+    },
+    "ffd3374f-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Loazzolo",
+      "timestamp" : "1476568800000",
+      "title" : "IV ed. Fotografè Andanda - Camminata abbinata a Concorso fotografico",
+      "type" : "gare-ed-eventi-sportivi",
+      "url" : "http://www.prolocoloazzolo.it"
+    },
+    "ffd33750-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Palazzo Alfieri - Fondazione Eugenio Guglielminetti (venerdì, sabato e domenica 16-18)",
+      "timestamp" : "1476655200000",
+      "title" : "Mostra \"Eugenio Guglielminetti. Dipinti, sculture e scenografie. Donazione di Giuseppe Orlandi\" fino al 12/11",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.asti.it"
+    },
+    "ffd33751-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Teatro Giraudi (ex Chiesa di P.zza San Giuseppe) ore 11",
+      "timestamp" : "1476655200000",
+      "title" : "Conferenza Stampa di presentazione Nuova Stagione Teatrale 2016-2017",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.asti.it"
+    },
+    "ffd35e50-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - vani sotterranei di Palazzo Alfieri ",
+      "timestamp" : "1476655200000",
+      "title" : "Nuovo percorso espositivo permanente \"Museo Eugenio Guglielminetti\" ",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.asti.it/pagina797_fondazione-guglielminetti.html"
+    },
+    "ffd35e51-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Fondazione Biblioteca Astense Giorgio Faletti Via Goltieri 3/a",
+      "timestamp" : "1476655200000",
+      "title" : "Cabaret viola: la poesia in città - Nazim Hikmet",
+      "type" : "eventi-culturali"
+    },
+    "ffd35e52-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Biblioteca Astense G. Faletti ore 21",
+      "timestamp" : "1476828000000",
+      "title" : "Presentazione libro \"In Rome we trust. Cattolici e politica negli Stati Uniti\" di Manlio Graziano",
+      "type" : "eventi-culturali"
+    },
+    "ffd35e53-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Archivio di Stato, Sala del Coro - Via Govone 9 ore 17,30",
+      "timestamp" : "1476914400000",
+      "title" : "\"Gli astigiani raccontano Alfieri agli astigiani\": \"La Ritrattistica Alfieriana\" con Maresa Barolo ed Ezio Claudio Pia",
+      "type" : "eventi-culturali"
+    },
+    "ffd35e54-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Nizza Monferrato - Auditorium Trinità, via Cordara",
+      "timestamp" : "1477000800000",
+      "title" : "XV Stagione Musicale ",
+      "type" : "eventi-culturali"
+    },
+    "ffd35e55-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Moncalvo - Teatro Civico - ore 21",
+      "timestamp" : "1477000800000",
+      "title" : "Preludio alla Fiera del Tartufo",
+      "type" : "eventi-culturali"
+    },
+    "ffd35e56-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "San Damiano d'Asti - Cinema Cristallo ore 21",
+      "timestamp" : "1477000800000",
+      "title" : " Rassegna autunnale di films d'autore \"La Famiglia Fang\"",
+      "type" : "eventi-culturali"
+    },
+    "ffd3d380-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Cantarana",
+      "timestamp" : "1477000800000",
+      "title" : "21/22 Serate di beneficenza",
+      "type" : "feste",
+      "url" : "http://www.comune.cantarana.at.it"
+    },
+    "ffd421a0-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Piovà Massaia - Tensostruttura di Piazza San Martino ore 17",
+      "timestamp" : "1477087200000",
+      "title" : "Convegno: \"Il cinghiale e la difficile convivenza con l'agricoltore\"",
+      "type" : "eventi-culturali"
+    },
+    "ffd421a1-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Sala Pastrone ore 15.30",
+      "timestamp" : "1477087200000",
+      "title" : "Rassegna cinematografica \"La fabbrica di cioccolato\" - Heidi",
+      "type" : "eventi-culturali",
+      "url" : "http://www.salapastrone.it"
+    },
+    "ffd421a2-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Sala Verde dell'Oratorio Don Bosco - Corso Dante 188 ore 17",
+      "timestamp" : "1477087200000",
+      "title" : "XVIII° Palio dell'Amicizia",
+      "type" : "eventi-culturali",
+      "url" : "http://www.sbandieratoridonbosco.net"
+    },
+    "ffd421a3-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - chiesa di Viatosto ore 21",
+      "timestamp" : "1477087200000",
+      "title" : "Cantantibus Organis - Davide Buriani e Stefano Pellini",
+      "type" : "eventi-culturali",
+      "url" : "http://www.idilim.it"
+    },
+    "ffd421a4-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Nizza Monferrato - Foro Boario ore 21",
+      "timestamp" : "1477087200000",
+      "title" : "Nizza d'Autore - \"Medea la passione e l'ira\" da Seneca",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.nizza.asti.it/"
+    },
+    "ffd421a5-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - CPIA in Piazza Leonardo Da Vinci dalle ore 18 ",
+      "timestamp" : "1477087200000",
+      "title" : "25 anni di Nathan Never e inaugurazione nuova sede Scuola del Fumetto di Asti",
+      "type" : "eventi-culturali"
+    },
+    "ffd421a6-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Castelnuovo Don Bosco - Spazio Ala - ore 21 e ore 22.15",
+      "timestamp" : "1477087200000",
+      "title" : "Teatro e Scienza: \"Méliès and me\" e Caffè scientifico \"In scena col tuo Avatar\"",
+      "type" : "eventi-culturali"
+    },
+    "ffd421a7-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Moncalvo - Teatro Comunale ore 21",
+      "timestamp" : "1477087200000",
+      "title" : "XXXIV Stagione di teatro in lingua piemontese \"L'obergi d'la lun-a per travers ed Monsù Beldeuit\"",
+      "type" : "eventi-culturali"
+    },
+    "ffd421a8-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Grana - sabato ore 20.30, domenica ore 12.30",
+      "timestamp" : "1477087200000",
+      "title" : "22/23 Weekend enogastronomici \"Sapori d'autunno 2016\": Funghi e Tartufi",
+      "type" : "enogastronomia"
+    },
+    "ffd421a9-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Villa San Secondo - Fraz. San Carlo",
+      "timestamp" : "1477087200000",
+      "title" : "22/23 7^ Sagra della Bagna Cauda e della Trippa (Buseca)",
+      "type" : "enogastronomia"
+    },
+    "ffd421aa-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Monale",
+      "timestamp" : "1477087200000",
+      "title" : "22/23 Memorial palla tamburello",
+      "type" : "gare-ed-eventi-sportivi",
+      "url" : "http://www.prolocodimonale.it"
+    },
+    "ffd421ab-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Refrancore - biblioteca Massimo Quaglino, via Cavour 10 - ore 16.30",
+      "timestamp" : "1477173600000",
+      "title" : "Presentazione del nuovo thriller di Riccardo Santagati “Ricordi di un delitto” ",
+      "type" : "eventi-culturali"
+    },
+    "ffd421ac-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Cortiglione - Salone Val Rosetta - piazza Padre Pio",
+      "timestamp" : "1477173600000",
+      "title" : "72º anniversario della Giunta popolare dell'Alto Monferrato",
+      "type" : "eventi-culturali",
+      "url" : "http://www.israt.it/index.php?option=com_content&view=article&id=538:il-museo-vivo-visite-teatralizzate-al-museo-del-risorgimento-di-asti&catid=126:news&Itemid=100"
+    },
+    "ffd448b0-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Viarigi (15.30/18.30)",
+      "timestamp" : "1477173600000",
+      "title" : "Torre dei Segnali - Apertura al pubblico",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.viarigi.at.it"
+    },
+    "ffd448b1-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Castell'Alfero - Inizio visita guidata ore 11",
+      "timestamp" : "1477173600000",
+      "title" : "Visita guidata al Castello e al Museo Etnografico \" 'L Ciar \"",
+      "type" : "eventi-culturali"
+    },
+    "ffd448b2-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Rocca d'Arazzo - Circolo Ricreativo Sant’Anna ore 11",
+      "timestamp" : "1477173600000",
+      "title" : "Presentazione del libro “Sant’Anna di Rocca d’Arazzo - gente, tradizioni, luoghi” di  Carlo Colombo",
+      "type" : "eventi-culturali"
+    },
+    "ffd448b3-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Fraz. Variglie",
+      "timestamp" : "1477173600000",
+      "title" : "Bagna Cauda",
+      "type" : "enogastronomia"
+    },
+    "ffd448b4-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Montiglio Monferrato - Colcavagno",
+      "timestamp" : "1477173600000",
+      "title" : "Festa d'Autunno - Pro loco Colcavagno",
+      "type" : "enogastronomia",
+      "url" : "http://www.montigliom.at.it/wp/"
+    },
+    "ffd448b5-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Passerano Marmorito ",
+      "timestamp" : "1477173600000",
+      "title" : "13^ Sagra della trippa",
+      "type" : "enogastronomia",
+      "url" : "http://prolocopasserano.jimdo.com/feste-e-sagre/sagra-della-trippa-2016/"
+    },
+    "ffd448b6-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Piovà Massaia -Tensostruttura di Piazza San Martino ore 12,30",
+      "timestamp" : "1477173600000",
+      "title" : "40° Anniversario Pro Loco - Pranzo aperto a tutti",
+      "type" : "enogastronomia"
+    },
+    "ffd448b7-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Moncalvo",
+      "timestamp" : "1477173600000",
+      "title" : "62^ Fiera Nazionale del Tartufo",
+      "type" : "fiere-mercati-e-tartufo",
+      "url" : "http://www.fieradeltartufodimoncalvo.it/"
+    },
+    "ffd448b8-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Piazza Alfieri",
+      "timestamp" : "1477173600000",
+      "title" : "Gli ambulanti di Forte dei Marmi incontrano le Eccellenze Alimentari Locali",
+      "type" : "fiere-mercati-e-tartufo"
+    },
+    "ffd448b9-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Fondazione Biblioteca Astense Giorgio Faletti Via Goltieri 3/a",
+      "timestamp" : "1477260000000",
+      "title" : "Cabaret viola: la poesia in città - Giudo Gozzano",
+      "type" : "eventi-culturali"
+    },
+    "ffd448ba-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Costigliole d’Asti - Biblioteca Civica via Roma 5 ore 17",
+      "timestamp" : "1477519200000",
+      "title" : "Primo incontro di lettura nell’ambito del progetto “Nati per Leggere” ",
+      "type" : "eventi-culturali"
+    },
+    "ffd448bb-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Teatro Alfieri ore 21",
+      "timestamp" : "1477519200000",
+      "title" : "\"Performance\" - Anteprima Stagione Teatrale 2016/2017 (fuori abbonamento)",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.asti.it/archivio6_eventi-in-agenda_0_2389_2_7.html"
+    },
+    "ffd448bc-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Archivio di Stato - Sala del Coro B. Alfieri ore 21.15",
+      "timestamp" : "1477605600000",
+      "title" : "Asti in concerto \"Ensamble antidogma musica\"",
+      "type" : "eventi-culturali",
+      "url" : "http://www.filarmonicoastigiano.com/index_asti16.html"
+    },
+    "ffd448bd-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Costigliole d’Asti - Sala Polivalente Comunale via Roma 5",
+      "timestamp" : "1477605600000",
+      "title" : "Inaugurazione Mostra \"Colori e forme\" fino al 31/3",
+      "type" : "eventi-culturali"
+    },
+    "ffd448be-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Nizza Monferrato - Auditorium Trinità, via Cordara",
+      "timestamp" : "1477605600000",
+      "title" : "XV Stagione Musicale ",
+      "type" : "eventi-culturali"
+    },
+    "ffd448bf-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "San Damiano d'Asti - Cinema Cristallo ore 21",
+      "timestamp" : "1477605600000",
+      "title" : " Rassegna autunnale di films d'autore \"La Sposa Bambina\"",
+      "type" : "eventi-culturali"
+    },
+    "ffd448c0-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Sala Pastrone ore 15.30",
+      "timestamp" : "1477692000000",
+      "title" : "Rassegna cinematografica \"La fabbrica di cioccolato\" - Zootropolis",
+      "type" : "eventi-culturali",
+      "url" : "http://www.salapastrone.it"
+    },
+    "ffd448c1-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Fondazione Biblioteca Astense Giorgio Faletti in via Goltieri 3/a (dalle 9 alle 13 ) ",
+      "timestamp" : "1477692000000",
+      "title" : "Mercatino dei libri della Biblioteca Astense ",
+      "type" : "eventi-culturali",
+      "url" : "http://www.bibliotecastense.it/fondazione-biblioteca-astense-giorgio-faletti/"
+    },
+    "ffd448c2-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Costigliole d’Asti - Sala Polivalente Comunale via Roma 5",
+      "timestamp" : "1477692000000",
+      "title" : "Mostra \"Colori e forme\" fino al 31/3",
+      "type" : "eventi-culturali"
+    },
+    "ffd448c3-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Moncalvo - Teatro Comunale ore 21",
+      "timestamp" : "1477692000000",
+      "title" : " XXXIV Stagione di teatro in lingua piemontese  \"Canzoniere Monferrino\" e Gran Teatro dei Burattini \"La storia d'la vaca rus-a\"",
+      "type" : "eventi-culturali"
+    },
+    "ffd448c4-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Salone Parrocchiale di San Domenico Savio in Via Tosi,30 - ore 21",
+      "timestamp" : "1477692000000",
+      "title" : "Spettacolo teatrale \"Noi Saremo per Sempre\"  ",
+      "type" : "eventi-culturali"
+    },
+    "ffd448c5-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Scurzolengo - Salone Comunale ore 21",
+      "timestamp" : "1477692000000",
+      "title" : " Cuntè Munfrà - \"Nasce nell'acqua ma muore nel vino\"",
+      "type" : "eventi-culturali",
+      "url" : "http://www.casadeglialfieri.it/"
+    },
+    "ffd448c6-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Costigliole d'Asti",
+      "timestamp" : "1477692000000",
+      "title" : "Barbera il Gusto del Territorio - Giornata del tartufo fino al 01/11",
+      "type" : "enogastronomia"
+    },
+    "ffd448c7-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Tonco - Villa Toso ore 20",
+      "timestamp" : "1477692000000",
+      "title" : "\"La Bagna dei Santi\"",
+      "type" : "enogastronomia"
+    },
+    "ffd448c8-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Valfenera",
+      "timestamp" : "1477692000000",
+      "title" : "Festa di S. Orsola \"Sagra del Bollito\" fino al 31",
+      "type" : "enogastronomia"
+    },
+    "ffd448c9-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Grana -  Salone Pro Loco, ore 20.30 ",
+      "timestamp" : "1477692000000",
+      "title" : "Pesce Party",
+      "type" : "enogastronomia"
+    },
+    "ffd448ca-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Archivio Storico ore 17",
+      "timestamp" : "1477778400000",
+      "title" : "Concerto pro Terremotati con \"La Ghironda\" e \"Coro Laeti Cantores\"",
+      "type" : "eventi-culturali"
+    },
+    "ffd448cb-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Castelnuovo Don Bosco (10/12-15/18)",
+      "timestamp" : "1477778400000",
+      "title" : "Ultima domenica per visite guidate alla Madonna del Castello",
+      "type" : "eventi-culturali",
+      "url" : "http://www.castelliaperti.it/pagine/ita/scheda.lasso?-id=75"
+    },
+    "ffd46fc0-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Costigliole d'Asti, chiesa Confraternita di San Gerolamo ore 16-18",
+      "timestamp" : "1477778400000",
+      "title" : "Visita al Museo \"Arte Sacra\" ",
+      "type" : "eventi-culturali",
+      "url" : "http://www.museoartesacracostiglioleat.it"
+    },
+    "ffd46fc1-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Viarigi (15.30/18.30)",
+      "timestamp" : "1477778400000",
+      "title" : "Torre dei Segnali - Apertura al pubblico",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.viarigi.at.it"
+    },
+    "ffd46fc2-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Castell'Alfero - Inizio visita guidata ore 11",
+      "timestamp" : "1477778400000",
+      "title" : "Visita guidata al Castello e al Museo Etnografico \" 'L Ciar \"",
+      "type" : "eventi-culturali"
+    },
+    "ffd46fc3-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Moncalvo",
+      "timestamp" : "1477778400000",
+      "title" : "62^ Fiera Nazionale del Tartufo",
+      "type" : "fiere-mercati-e-tartufo",
+      "url" : "http://www.fieradeltartufodimoncalvo.it/"
+    },
+    "ffd46fc4-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Loazzolo - Forteto della luja",
+      "timestamp" : "1477778400000",
+      "title" : "Antica Festa di Fine Vendemmia, dei tatufi, marroni e moscato ",
+      "type" : "fiere-mercati-e-tartufo"
+    },
+    "ffd46fc5-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Bubbio",
+      "timestamp" : "1477778400000",
+      "title" : "Fiera di San Simone",
+      "type" : "fiere-mercati-e-tartufo",
+      "url" : "http://www.comune.bubbio.at.it/"
+    },
+    "ffd46fc6-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Incisa Scapaccino",
+      "timestamp" : "1477778400000",
+      "title" : "Giornata del Tartufo",
+      "type" : "fiere-mercati-e-tartufo",
+      "url" : "http://www.comune.incisascapaccino.at.it"
+    },
+    "ffd46fc7-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Dalla Chiesa di Santa Maria di Vezzolano (Albugnano) al Colle don Bosco (Castelnuovo don Bosco)",
+      "timestamp" : "1477868400000",
+      "title" : "Terza Marcia e Veglia con i nostri Santi ",
+      "type" : "eventi-culturali",
+      "url" : "http://www.lacabalesta.it"
+    },
+    "ffd46fc8-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "San Damiano d'Asti - Cinema Cristallo",
+      "timestamp" : "1477868400000",
+      "title" : "Serata con il giornalista Quirico",
+      "type" : "eventi-culturali",
+      "url" : "http://www.comune.sandamiano.at.it/"
+    },
+    "ffd46fc9-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Baldichieri - sala polivalente",
+      "timestamp" : "1477868400000",
+      "title" : "Festa di Halloween mostruosa",
+      "type" : "feste"
+    },
+    "ffd46fca-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Sessame",
+      "timestamp" : "1477868400000",
+      "title" : "Festa da paura",
+      "type" : "feste",
+      "url" : "http://www.comune.sessame.at.it"
+    },
+    "ffd46fcb-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Asti - Musei Cittadini",
+      "timestamp" : "1477868400000",
+      "title" : "Halloween nei Musei di Asti",
+      "type" : "feste",
+      "url" : "http://www.palazzomazzetti.it"
+    },
+    "ffd46fcc-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Agliano Terme - presso Cantina Sociale \"Barbera dei sei Castelli\"",
+      "timestamp" : "1477868400000",
+      "title" : "Hallowino",
+      "type" : "feste",
+      "url" : "http://www.comune.aglianoterme.at.it"
+    },
+    "ffd46fcd-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Aramengo dalle ore 19",
+      "timestamp" : "1477868400000",
+      "title" : "Halloween - La notte dell'Horror",
+      "type" : "feste"
+    },
+    "ffd46fce-9e0b-11e6-b7ba-afe936f42f37" : {
+      "content" : "Albugnano - Canonica di Santa Maria di Vezzolano ore 17,30 (arrivo al Colle Don Bosco ore 22)",
+      "timestamp" : "1477868400000",
+      "title" : "Vigilia di Ognissanti - Marcia e Veglia con i nostri Santi da Vezzolano al Colle Don Bosco",
+      "type" : "gare-ed-eventi-sportivi",
+      "url" : "http://www.lacabalesta.it"
+    },
+    "ca9c9050-a043-11e6-9b3f-052c8202871d":{"timestamp":"1477958400000","type":"eventi-culturali","title":"Mostra \"Nuove acquisizioni\" fino al 20 novembre","content":"Mombercelli - Museo Civico d'Arte Moderna e Contemporanea (domenica 15-18)","url":"http://www.musarmo.comune.mombercelli.at.it"},"ca9cb760-a043-11e6-9b3f-052c8202871d":{"timestamp":"1477958400000","type":"eventi-culturali","title":"Mostra \"Mario Perosino (1930-2008). Dipinti\" fino al 31 dicembre","content":"Asti - Fondazione Guglielminetti , da venerdì a domenica 16-18","url":"http://www.comune.asti.it"},"ca9cb761-a043-11e6-9b3f-052c8202871d":{"timestamp":"1477958400000","type":"eventi-culturali","title":"Mostra collettiva \"La Via della Misericordia\" fino al 20 novembre","content":"Asti - Spazio San Giovanni - Via Natta 36 (venerdì 15-18, sabato e domenica 9.30-13/15-18)","url":"http://museo.sicdat.it"},"ca9cb762-a043-11e6-9b3f-052c8202871d":{"timestamp":"1477958400000","type":"eventi-culturali","title":"Mostra \"Francesco Menzio. Un Maestro del Novecento\" fino al 4 dicembre","content":"Asti - Palazzo Mazzetti","url":"http://www.palazzomazzetti.it/?p=6842"},"ca9cde70-a043-11e6-9b3f-052c8202871d":{"timestamp":"1477958400000","type":"eventi-culturali","title":"Mostra \"Arte Giapponese - Oriente bellezza armonia\" fino al 11/12","content":"Moncalvo - Museo Civico (sab. e dom. dalle ore 10 alle ore 18)","url":"http://www.provincia.asti.it/hosting/moncalvo/"},"ca9d0580-a043-11e6-9b3f-052c8202871d":{"timestamp":"1477958400000","type":"eventi-culturali","title":"Scatti d'Autore fino al 13/11","content":"Costigliole d'Asti - Castello (sabato e domenica 16-19.30)","url":"http://www.scattidautoreat.it/114-2/"},"ca9d0581-a043-11e6-9b3f-052c8202871d":{"timestamp":"1477958400000","type":"eventi-culturali","title":"Mostra \"Eugenio Guglielminetti. Dipinti, sculture e scenografie. Donazione di Giuseppe Orlandi\" fino al 12/11","content":"Asti - Palazzo Alfieri - Fondazione Eugenio Guglielminetti (venerdì, sabato e domenica 16-18)","url":"http://www.comune.asti.it"},"ca9d0582-a043-11e6-9b3f-052c8202871d":{"timestamp":"1477958400000","type":"eventi-culturali","title":"Mostra \"Colori e forme\" fino al 31/3","content":"Costigliole d’Asti - Sala Polivalente Comunale via Roma 5","url":null},"ca9d7ab0-a043-11e6-9b3f-052c8202871d":{"timestamp":"1477958400000","type":"eventi-culturali","title":"Mostra collettiva \"La Via della Misericordia\" fino al 20/11","content":"Asti - Spazio San Giovanni (venerdì 15-18, sabato e domenica 9.30-13/15-18)","url":"http://museo.sicdat.it/eventi/icalrepeat.detail/2016/10/01/56/32|29|31|30|35|33/la-via-della-misericordia"},"ca9d7ab1-a043-11e6-9b3f-052c8202871d":{"timestamp":"1477958400000","type":"eventi-culturali","title":"Mostra \"Vignette... in Vigna\" fino al 31 dicembre","content":"Bubbio - Località S. Grato","url":"http://www.comune.bubbio.at.it"},"ca9d7ab2-a043-11e6-9b3f-052c8202871d":{"timestamp":"1477958400000","type":"eventi-culturali","title":"Rassegna \"Cinema senza frontiere. I diritti negati\" - \"Truman. Un vero amico è per sempre\"\"","content":"Asti - Sala Pastrone, ore 17.30 e 21.15","url":"http://www.salapastrone.it"},"ca9d7ab3-a043-11e6-9b3f-052c8202871d":{"timestamp":"1477958400000","type":"eventi-culturali","title":"Nuovo percorso espositivo permanente \"Museo Eugenio Guglielminetti\" ","content":"Asti - vani sotterranei di Palazzo Alfieri ","url":"http://www.comune.asti.it/pagina797_fondazione-guglielminetti.html"},"ca9da1c0-a043-11e6-9b3f-052c8202871d":{"timestamp":"1477958400000","type":"eventi-culturali","title":"Mostra: \"Corrado Cagli attualità per il tempo della continuità\" fino al 4/12","content":"Asti - Palazzo Mazzetti ","url":"http://www.palazzomazzetti.it/?p=6949"},"ca9da1c1-a043-11e6-9b3f-052c8202871d":{"timestamp":"1477958400000","type":"enogastronomia","title":"Barbera il Gusto del Territorio - Giornata del tartufo","content":"Costigliole d'Asti","url":null},"ca9da1c2-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478217600000","type":"eventi-culturali","title":" Rassegna autunnale di films d'autore - \"La Pazza Gioia\"","content":"San Damiano d'Asti - Cinema Cristallo ore 21","url":null},"ca9da1c3-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478217600000","type":"eventi-culturali","title":"\"Filumena Marturano\" - Stagione Teatrale 2016/2017 ","content":"Asti - Teatro Alfieri ore 21","url":"http://www.comune.asti.it/archivio6_eventi-in-agenda_0_2389_2_7.html"},"ca9da1c4-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478217600000","type":"enogastronomia","title":"Festa di San Carlo fino al 6 novembre","content":"Pino d'Asti","url":"http://www.comune.pinodasti.at.it"},"ca9dc8d0-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478217600000","type":"fiere-mercati-e-tartufo","title":"4/6 Fiera di San Carlo - Giornata del Tartufo, del Cardo Gobbo e della Barbera","content":"Nizza Monferrato","url":"http://www.comune.nizza.asti.it/index.php?option=com_content&view=article&id=139%3Afiera-di-san-carlo&catid=44&Itemid=192"},"ca9dc8d1-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478304000000","type":"eventi-culturali","title":"Presentazione libro “Uomini in guomini in grigio. Storie di gente comune nell'italia della guerra civile” di Carlo Greppi","content":"Cisterna d'Asti - Castello - ore 16","url":null},"ca9dc8d2-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478304000000","type":"eventi-culturali","title":"\"Vittorio Alfieri: libero o degno di esserlo\" - visite guidate animate da letture e musiche","content":"Asti - Palazzo Alfieri ","url":null},"ca9dc8d3-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478304000000","type":"eventi-culturali","title":"Nizza d'Autore - \"Quando in fiera si andava in bicicletta\" a seguire \"La maglia nera\"","content":"Nizza Monferrato ","url":"http://www.comune.nizza.asti.it/"},"ca9dc8d4-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478304000000","type":"eventi-culturali","title":"Rassegna cinematografica \"La fabbrica di cioccolato\" - Billy il Koala","content":"Asti - Sala Pastrone ore 15.30","url":"http://www.salapastrone.it"},"ca9defe0-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478304000000","type":"eventi-culturali","title":"Stagione Teatrale \"Open\"- \"The stage game\"","content":"Asti - Teatro Giraudi (ex chiesa, Piazza San Giuseppe) ore 19","url":null},"ca9defe1-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478304000000","type":"eventi-culturali","title":"Rassegna \"Incanto Sacro\" - Coro della diocesi di Asti e Coro ANA Vallebelbo","content":"Asti - Cattedrale ore 21","url":"http://www.idilim.it"},"ca9defe2-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478304000000","type":"enogastronomia","title":"5/6 51^ Bagna Cauda","content":"Cortandone","url":"http://www.comune.cortandone.at.it/"},"ca9defe3-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478304000000","type":"enogastronomia","title":"5/6 Weekend enogastronomici \"Sapori d'autunno 2016\": \"Bagna Cauda\"","content":"Grana - sabato ore 20.30, domenica ore 12.30","url":null},"ca9e6510-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478304000000","type":"fiere-mercati-e-tartufo","title":"5/7 VI Fiera Regionale del Tartufo e dei Santi","content":"San Damiano d'Asti","url":"http://www.comune.sandamiano.at.it/"},"ca9f0150-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478390400000","type":"eventi-culturali","title":"Mostra \"Tartufarte\"","content":"Montechiaro d'Asti - Sede Comitato Palio ","url":"http://www.artpalio.altervista.org/"},"ca9f0151-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478390400000","type":"eventi-culturali","title":"Apertura con visite guidate del Museo Badoglio, della Chiesa Parrocchiale e del Chiostro (fino a novembre)","content":"Grazzano Badoglio (15-17.30)","url":"http://www.comune.grazzanobadoglio.at.it/"},"caa012c0-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478390400000","type":"eventi-culturali","title":"Apertura Museo Storico Badogliano per la festa delle FF.AA. e 60° anniversario della morte di Pietro Badoglio","content":"Grazzano Badoglio - Museo Storico Badogliano (16 - 17.30) ","url":"http://www.museobadoglio.altervista.org"},"caa012c1-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478390400000","type":"eventi-culturali","title":"Visita guidata al Castello e al Museo Etnografico \" 'L Ciar \"","content":"Castell'Alfero - Inizio visita guidata ore 11","url":null},"caa039d0-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478390400000","type":"eventi-culturali","title":"Cuntè Munfrà - \"La mia guerra finì lì\"","content":"Casorzo - Salone verdi ore 16","url":"http://www.casadeglialfieri.it/"},"caa039d1-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478390400000","type":"enogastronomia","title":"Festa di San Martin e del Ringraziamento, Raduno mezzi agricoli e trattori d'epoca","content":"Maretto","url":"http://www.comune.maretto.at.it"},"caa039d2-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478390400000","type":"enogastronomia","title":"Maratona della Bagna Cauda","content":"Nizza Monferrato","url":"http://www.comune.nizza.asti.it"},"caa039d3-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478390400000","type":"fiere-mercati-e-tartufo","title":"Fiera Nazionale del Tartufo Bianco del Monferrato","content":"Montechiaro d'Asti","url":"http://www.comune.montechiarodasti.at.it"},"caa039d4-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478390400000","type":"fiere-mercati-e-tartufo","title":"Mercatino dell'antiquariato","content":"Moncalvo","url":"http://www.comune.moncalvo.at.it"},"caa060e0-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478476800000","type":"eventi-culturali","title":"Cabaret viola: la poesia in città - Giovanni Giudici e Antonio Riccardi","content":"Asti - Fondazione Biblioteca Astense Giorgio Faletti Via Goltieri 3/a","url":null},"caa060e1-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478563200000","type":"eventi-culturali","title":"Rassegna \"Cinema senza frontiere. I diritti negati\" - \"Fiore del deserto\"","content":"Asti - Sala Pastrone, ore 17.30 e 21.15","url":"http://www.salapastrone.it"},"caa060e2-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478649600000","type":"eventi-culturali","title":"\"Human\" - Stagione Teatrale 2016/2017 ","content":"Asti - Teatro Alfieri ore 21","url":"http://www.comune.asti.it/archivio6_eventi-in-agenda_0_2389_2_7.html"},"caa060e3-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478822400000","type":"eventi-culturali","title":" Rassegna autunnale di films d'autore - \"I miei giorni più belli\"","content":"San Damiano d'Asti - Cinema Cristallo ore 21","url":null},"caa060e4-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478908800000","type":"eventi-culturali","title":"Rassegna cinematografica \"La fabbrica di cioccolato\" - Robinson Crusoe","content":"Asti - Sala Pastrone ore 15.30","url":"http://www.salapastrone.it"},"caa087f0-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478908800000","type":"eventi-culturali","title":"Cantantibus Organis - Paolo Bougeat","content":"Asti - collegiata di San Secondo ore 21","url":"http://www.idilim.it"},"caa087f1-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478908800000","type":"eventi-culturali","title":"Stagione Teatrale di Prosa 2016/2017 - \"Antigone\"","content":"Moncalvo - Teatro Civico - ore 21","url":null},"caa0af00-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478908800000","type":"enogastronomia","title":"Polenta Party","content":"Grana -  Salone Pro Loco, ore 20.30 ","url":null},"caa0af01-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478908800000","type":"enogastronomia","title":"12/13 Grande Bagna Cauda","content":"Villa San Secondo - Salone Pro Loco","url":null},"caa0af02-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478908800000","type":"enogastronomia","title":"Tradizionale Bagna Caöda","content":"Agliano","url":"http://www.comune.aglianoterme.at.it"},"caa0d610-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478908800000","type":"enogastronomia","title":"Fritto Misto \"Alla Bazzanese\"","content":"Mombaruzzo - Frazione Bazzana ore 20","url":null},"caa0d611-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478908800000","type":"enogastronomia","title":"12/13 \"Fuma San Martin\" Gran Fritto Misto alla piemontese","content":"Vigliano  - Centro sportivo comunale \"G. B.Conti\"","url":"http://www.prolocodivigliano.it"},"caa0d612-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478908800000","type":"enogastronomia","title":"12/13 51^ Bagna Cauda","content":"Cortandone","url":"http://www.comune.cortandone.at.it/"},"caa0d613-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478908800000","type":"fiere-mercati-e-tartufo","title":"12/13 VinTrifula - 5^ Festa del Tartufo","content":"Castagnole delle Lanze - San Bartolomeo","url":null},"caa0d614-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478908800000","type":"eventi-culturali","title":"12/13 Libri in Nizza","content":"Nizza Monferrato ","url":"http://www.comune.nizza.asti.it/"},"caa0fd20-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478995200000","type":"eventi-culturali","title":"Palazzo Mazzetti for Kids - \"Astronomia e astrologia\" (7-12 anni)","content":"Asti - Palazzo Mazzetti ore 15.30","url":"http://www.palazzomazzetti.it"},"caa0fd21-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478995200000","type":"eventi-culturali","title":"Visita guidata al Castello e al Museo Etnografico \" 'L Ciar \"","content":"Castell'Alfero - Inizio visita guidata ore 11","url":null},"caa0fd22-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478995200000","type":"enogastronomia","title":"Ceci","content":"Calliano - Pro loco ","url":"http://www.comune.calliano.at.it"},"caa0fd23-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478995200000","type":"enogastronomia","title":"Fè San Marten","content":"Asti - Frazione Castiglione","url":"http://www.castiglioneasti.it"},"caa0fd24-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478995200000","type":"feste","title":"Esposizione Nazionale Canina","content":"Asti - Palazzo Enofila dalle ore 10","url":null},"caa0fd25-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478995200000","type":"enogastronomia","title":"Pasta e fagioli e bollito misto alla Piemontese","content":"Asti - Fraz. Variglie","url":null},"caa0fd26-a043-11e6-9b3f-052c8202871d":{"timestamp":"1478995200000","type":"enogastronomia","title":"Fiera Regionale del Tartufo - Antica Fiera di San Martin","content":"Canelli","url":"http://www.canellieventi.it/"},"caa12430-a043-11e6-9b3f-052c8202871d":{"timestamp":"1479081600000","type":"eventi-culturali","title":"Cabaret viola: la poesia in città - Rudjard Kipling","content":"Asti - Fondazione Biblioteca Astense Giorgio Faletti Via Goltieri 3/a","url":null},"caa12431-a043-11e6-9b3f-052c8202871d":{"timestamp":"1479168000000","type":"eventi-culturali","title":"Rassegna \"Cinema senza frontiere. I diritti negati\" - \"Tangerines\"","content":"Asti - Sala Pastrone, ore 17.30 e 21.15","url":"http://www.salapastrone.it"},"caa12432-a043-11e6-9b3f-052c8202871d":{"timestamp":"1479427200000","type":"eventi-culturali","title":"Rassegna autunnale di films d'autore - \"Truman, un vero amico è per sempre\"","content":"San Damiano d'Asti - Cinema Cristallo ore 21","url":null},"caa12433-a043-11e6-9b3f-052c8202871d":{"timestamp":"1479427200000","type":"eventi-culturali","title":"Stagione Teatrale \"Open\"- \"The stage game\"","content":"Asti - Teatro Giraudi (ex chiesa, Piazza San Giuseppe) ore 19","url":null},"caa12434-a043-11e6-9b3f-052c8202871d":{"timestamp":"1479513600000","type":"eventi-culturali","title":"Mostra \"Mario Perosino (1930-2008). Dipinti\" fino al 31 dicembre","content":"Asti - Fondazione Guglielminetti , da venerdì a domenica 16-18","url":"http://www.comune.asti.it"},"caa19960-a043-11e6-9b3f-052c8202871d":{"timestamp":"1479513600000","type":"eventi-culturali","title":"\"Anelante\" - Stagione Teatrale 2016/2017 ","content":"Asti - Teatro Alfieri ore 21","url":"http://www.comune.asti.it/archivio6_eventi-in-agenda_0_2389_2_7.html"},"caa1c070-a043-11e6-9b3f-052c8202871d":{"timestamp":"1479513600000","type":"eventi-culturali","title":"Rassegna cinematografica \"La fabbrica di cioccolato\" - Pedro il galletto coraggioso","content":"Asti - Sala Pastrone ore 15.30","url":"http://www.salapastrone.it"},"caa1e780-a043-11e6-9b3f-052c8202871d":{"timestamp":"1479513600000","type":"feste-patronali-e-religiose","title":"19/20  Festa Patronale di Santa Caterina","content":"Monale","url":"http://www.prolocodimonale.it"},"caa1e781-a043-11e6-9b3f-052c8202871d":{"timestamp":"1479513600000","type":"enogastronomia","title":"19/20 51^ Bagna Cauda","content":"Cortandone","url":"http://www.comune.cortandone.at.it/"},"caa1e782-a043-11e6-9b3f-052c8202871d":{"timestamp":"1479513600000","type":"enogastronomia","title":"19/20 Nizza è Bagna Cauda","content":"Nizza Monferrato ","url":"http://www.comune.nizza.asti.it/"},"caa1e783-a043-11e6-9b3f-052c8202871d":{"timestamp":"1479513600000","type":"enogastronomia","title":"19/20 \"Tra Vini e Tartufi\"","content":"Mombaruzzo","url":"http://www.comune.mombaruzzo.at.it"},"caa1e784-a043-11e6-9b3f-052c8202871d":{"timestamp":"1479513600000","type":"fiere-mercati-e-tartufo","title":"19/20 Fiera Regionale del Tartufo","content":"Asti - Centro storico","url":"http://www.comune.asti.it/pagina0_home-page.html"},"caa20e90-a043-11e6-9b3f-052c8202871d":{"timestamp":"1479600000000","type":"eventi-culturali","title":"Visita guidata al Castello e al Museo Etnografico \" 'L Ciar \"","content":"Castell'Alfero - Inizio visita guidata ore 11","url":null},"caa2aad0-a043-11e6-9b3f-052c8202871d":{"timestamp":"1479600000000","type":"eventi-culturali","title":"Il monferrato degli Infernot","content":"Grazzano Badoglio e Casorzo","url":null},"caa2aad1-a043-11e6-9b3f-052c8202871d":{"timestamp":"1479600000000","type":"eventi-culturali","title":"Cuntè Munfrà - \"Al giardino ancora non l'ho detto\"","content":"Castagnole Monferrato - ore 16","url":"http://www.casadeglialfieri.it/"},"caa2aad2-a043-11e6-9b3f-052c8202871d":{"timestamp":"1479600000000","type":"enogastronomia","title":"Anteprima Fiera Regionale del Tartufo - Pranzo Monferrino al Tartufo","content":"Castelnuovo Don Bosco ","url":"http://www.comune.castelnuovodonbosco.at.it"},"caa2aad3-a043-11e6-9b3f-052c8202871d":{"timestamp":"1479600000000","type":"fiere-mercati-e-tartufo","title":"Mercatino dell'Antiquariato e dell'Agricoltura","content":"Nizza Monferrato","url":"http://www.comune.nizza.asti.it"},"caa2aad4-a043-11e6-9b3f-052c8202871d":{"timestamp":"1479686400000","type":"eventi-culturali","title":"Cabaret viola: la poesia in città - Hermann Melville","content":"Asti - Fondazione Biblioteca Astense Giorgio Faletti Via Goltieri 3/a","url":null},"caa2d1e0-a043-11e6-9b3f-052c8202871d":{"timestamp":"1479772800000","type":"eventi-culturali","title":"Rassegna \"Cinema senza frontiere. I diritti negati\" - \"Fiore\"","content":"Asti - Sala Pastrone, ore 17.30 e 21.15","url":"http://www.salapastrone.it"},"caa2d1e1-a043-11e6-9b3f-052c8202871d":{"timestamp":"1479945600000","type":"eventi-culturali","title":"\"Come vi piace\" - Stagione Teatrale 2016/2017 ","content":"Asti - Teatro Alfieri ore 21","url":"http://www.comune.asti.it/archivio6_eventi-in-agenda_0_2389_2_7.html"},"caa2d1e2-a043-11e6-9b3f-052c8202871d":{"timestamp":"1479945600000","type":"fiere-mercati-e-tartufo","title":"Fiera di Santa Caterina","content":"Villanova d'Asti","url":"http://www.comune.villanova.at.it"},"caa2d1e3-a043-11e6-9b3f-052c8202871d":{"timestamp":"1480032000000","type":"eventi-culturali","title":"Asti Premio Giorgio Faletti","content":"Asti - Teatro Alfieri ore 21","url":"http://www.premiogiorgiofaletti.it"},"caa2d1e4-a043-11e6-9b3f-052c8202871d":{"timestamp":"1480032000000","type":"eventi-culturali","title":"Rassegna autunnale di films d'autore - \"La isla minima\"","content":"San Damiano d'Asti - Cinema Cristallo ore 21","url":null},"caa2d1e5-a043-11e6-9b3f-052c8202871d":{"timestamp":"1480032000000","type":"enogastronomia","title":"25/27 Bagna Cauda Day","content":"Asti ","url":"http://www.bagnacaudaday.it"},"caa2d1e6-a043-11e6-9b3f-052c8202871d":{"timestamp":"1480118400000","type":"eventi-culturali","title":"Cantantibus Organis - Margherita Sciddurlo","content":"Revigliasco d'Asti - chiesa parrocchiale ore 21","url":"http://www.idilim.it"},"caa2d1e7-a043-11e6-9b3f-052c8202871d":{"timestamp":"1480118400000","type":"eventi-culturali","title":"Stagione Teatrale \"Open\"- \"Tristissimo\"","content":"Asti - Teatro Giraudi (ex chiesa, Piazza San Giuseppe) ore 21","url":null},"caa2f8f0-a043-11e6-9b3f-052c8202871d":{"timestamp":"1480118400000","type":"eventi-culturali","title":"Rassegna cinematografica \"La fabbrica di cioccolato\" - Il viaggio di Norm","content":"Asti - Sala Pastrone ore 15.30","url":"http://www.salapastrone.it"},"caa2f8f1-a043-11e6-9b3f-052c8202871d":{"timestamp":"1480118400000","type":"enogastronomia","title":"Bagna Caoda","content":"Agliano","url":"http://www.comune.aglianoterme.at.it"},"caa2f8f2-a043-11e6-9b3f-052c8202871d":{"timestamp":"1480118400000","type":"enogastronomia","title":"26/27 51^ Bagna Cauda","content":"Cortandone","url":"http://www.comune.cortandone.at.it/"},"caa2f8f3-a043-11e6-9b3f-052c8202871d":{"timestamp":"1480204800000","type":"eventi-culturali","title":"Visita guidata al Castello e al Museo Etnografico \" 'L Ciar \"","content":"Castell'Alfero - Inizio visita guidata ore 11","url":null},"caa2f8f4-a043-11e6-9b3f-052c8202871d":{"timestamp":"1480204800000","type":"eventi-culturali","title":"Stagione Teatrale \"Open\"- \"Ah! Com’è bello l’uomo\"","content":"Asti - Teatro Giraudi (ex chiesa, Piazza San Giuseppe) ore 21","url":null},"caa2f8f5-a043-11e6-9b3f-052c8202871d":{"timestamp":"1480204800000","type":"eventi-culturali","title":"7° Premio Letterario \"Asti d'Appello\"","content":"Asti - Teatro Alfieri","url":"http://www.premioastidappello.org/pagine.php?id=55&cerca=regolamento%20edizione%202016"},"caa2f8f6-a043-11e6-9b3f-052c8202871d":{"timestamp":"1480204800000","type":"fiere-mercati-e-tartufo","title":"Fiera del Tartufo","content":"Montegrosso d'Asti","url":"http://www.comune.montegrossodasti.at.it/servizi/notizie/notizie_homepage.aspx"},"caa2f8f7-a043-11e6-9b3f-052c8202871d":{"timestamp":"1480204800000","type":"fiere-mercati-e-tartufo","title":"26^ edizione Fiera Regionale del Tartufo","content":"Castelnuovo Don Bosco ","url":"http://www.comune.castelnuovodonbosco.at.it"},"caa2f8f8-a043-11e6-9b3f-052c8202871d":{"timestamp":"1480204800000","type":"fiere-mercati-e-tartufo","title":"Mercatino di Natale con Concerto Gospel ","content":"Montiglio M.to - Centro espositivo Montexpo ","url":"http://www.montigliom.at.it/wp/"},"caa2f8f9-a043-11e6-9b3f-052c8202871d":{"timestamp":"1480204800000","type":"gare-ed-eventi-sportivi","title":"13° Raduno \"Le auto e le moto che hanno fatto la storia\"","content":"Castelnuovo Don Bosco ","url":"http://www.comune.castelnuovodonbosco.at.it"},"caa32000-a043-11e6-9b3f-052c8202871d":{"timestamp":"1480291200000","type":"eventi-culturali","title":"Cabaret viola: la poesia in città - Poetesse italiane del XIX secolo","content":"Asti - Fondazione Biblioteca Astense Giorgio Faletti Via Goltieri 3/a","url":null},"caa32001-a043-11e6-9b3f-052c8202871d":{"timestamp":"1480291200000","type":"fiere-mercati-e-tartufo","title":"Tradizionale Fiera Commerciale di Sant'Andrea","content":"Castelnuovo Don Bosco ","url":"http://www.comune.castelnuovodonbosco.at.it"},"caa32002-a043-11e6-9b3f-052c8202871d":{"timestamp":"1480377600000","type":"eventi-culturali","title":"Rassegna \"Cinema senza frontiere. I diritti negati\" - \"La sposa bambina\"","content":"Asti - Sala Pastrone, ore 17.30 e 21.15","url":"http://www.salapastrone.it"},
+    "080cdda0-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480550400000","type":"eventi-culturali","title":"Nuovo percorso espositivo permanente \"Museo Eugenio Guglielminetti\" ","content":"Asti - vani sotterranei di Palazzo Alfieri ","url":"http://www.comune.asti.it/pagina797_fondazione-guglielminetti.html"},"080d04b0-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480550400000","type":"eventi-culturali","title":" Mostra \"Francesco Menzio. Un Maestro del Novecento\" fino al 4 dicembre","content":"Asti - Palazzo Mazzetti","url":"http://www.palazzomazzetti.it/?p=6842"},"080d04b1-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480550400000","type":"eventi-culturali","title":"Mostra: \"Corrado Cagli attualità per il tempo della continuità\" fino al 4/12","content":"Asti - Palazzo Mazzetti ","url":"http://www.palazzomazzetti.it/?p=6949"},"080d04b2-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480550400000","type":"eventi-culturali","title":"Mostra \"Colori e forme\" fino al 31/3","content":"Costigliole d’Asti - Sala Polivalente Comunale via Roma 5","url":null},"080d04b3-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480550400000","type":"eventi-culturali","title":"Mostra \"Vignette... in Vigna\" fino al 31 dicembre","content":"Bubbio - Località S. Grato","url":"http://www.comune.bubbio.at.it"},"080d04b4-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480550400000","type":"eventi-culturali","title":"Mostra \"Arte Giapponese - Oriente bellezza armonia\" fino al 11/12","content":"Moncalvo - Museo Civico (sab. e dom. dalle ore 10 alle ore 18)","url":"http://www.provincia.asti.it/hosting/moncalvo/"},"080d04b5-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480636800000","type":"eventi-culturali","title":"Rassegna autunnale di films d'autore - \"Un padre, una figlia\"","content":"San Damiano d'Asti - Cinema Cristallo ore 21","url":null},"080d04b6-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480723200000","type":"eventi-culturali","title":"Rassegna cinematografica \"La fabbrica di cioccolato\" - Angry Birds","content":"Asti - Sala Pastrone ore 15.30","url":"http://www.salapastrone.it"},"080d2bc0-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480723200000","type":"eventi-culturali","title":"Rassegna Invernale - Musica e spettacoli fino al 31 dicembre","content":"San Marzano Oliveto","url":"http://www.comune.sanmarzanooliveto.at.it"},"080d2bc1-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480723200000","type":"eventi-culturali","title":"Stagione Teatrale di Prosa 2016/2017 - \"Toc Toc\"","content":"Moncalvo - Teatro Civico - ore 21","url":null},"080d2bc2-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480723200000","type":"eventi-culturali","title":"Cuntè Munfrà - \"Gelindo ritorna\"","content":"Asti - Cascina del Racconto ore 16","url":"http://www.casadeglialfieri.it/"},"080d2bc3-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480723200000","type":"fiere-mercati-e-tartufo","title":"Mercatini di Natale","content":"Isola d'Asti","url":"http://www.comune.isoladasti.at.it"},"080d2bc4-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480809600000","type":"eventi-culturali","title":"Palazzo Mazzetti for Kids - \"Benvenuti nella magica casa di Babbo Natale\" (4-6 anni)","content":"Asti - Palazzo Mazzetti ore 15.30","url":"http://www.palazzomazzetti.it"},"080d2bc5-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480809600000","type":"enogastronomia","title":"Bagna Cauda e Bollito Misto","content":"Cossombrato - Loc.Galleria 2","url":"http://www.comune.cossombrato.at.it"},"080d2bc6-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480809600000","type":"fiere-mercati-e-tartufo","title":"Mercatino di Natale","content":"Cocconato","url":"http://www.comune.cocconato.at.it/"},"080d2bc7-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480809600000","type":"fiere-mercati-e-tartufo","title":"Mercatino dell'antiquariato","content":"Moncalvo","url":"http://www.comune.moncalvo.at.it"},"080d2bc8-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480809600000","type":"feste-patronali-e-religiose","title":"Il borgo e i suoi presepi - fino al 6 gennaio","content":"Cocconato","url":"http://www.comune.cocconato.at.it/"},"080d2bc9-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480809600000","type":"fiere-mercati-e-tartufo","title":"Mercatino di Natale","content":"Cantarana - Bocciodromo Comunale","url":null},"080d52d0-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480809600000","type":"fiere-mercati-e-tartufo","title":"Fiera del Tartufo","content":"Cortazzone - Piazzale Pro Loco","url":"http://www.comune.cortazzone.at.it"},"080d52d1-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480809600000","type":"fiere-mercati-e-tartufo","title":"Fiera Regionale del Tartufo","content":"Asti - Centro storico","url":"http://www.comune.asti.it/pagina0_home-page.html"},"080d52d2-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480809600000","type":"fiere-mercati-e-tartufo","title":"Fiera del Bue Grasso e del Manzo","content":"Nizza Monferrato ","url":"http://www.comune.nizza.asti.it/"},"080d52d3-a044-11e6-9b3f-052c8202871d":{"timestamp":"1480896000000","type":"eventi-culturali","title":"Cabaret viola: la poesia in città - Trovati e canto popolare","content":"Asti - Fondazione Biblioteca Astense Giorgio Faletti Via Goltieri 3/a","url":null},"080d79e0-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481068800000","type":"fiere-mercati-e-tartufo","title":"379^ Fiera del Bue Grasso","content":"Moncalvo","url":"http://www.comune.moncalvo.at.it/"},"080d79e1-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481155200000","type":"eventi-culturali","title":"Mostra \"Natale dell'artista\" fino al 06/01/2017","content":"Montechiaro d'Asti - Sede Comitato Palio ","url":"http://www.artpalio.altervista.org/"},"080d79e2-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481155200000","type":"eventi-culturali","title":"\"Gelindo Ritorna!!!\" ","content":"Asti - Frazione Castiglione","url":"http://www.castiglioneasti.it"},"080d79e3-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481155200000","type":"feste-patronali-e-religiose","title":"Solennità Immacolata - Compleanno dell'Oratorio di Don Bosco","content":"Castelnuovo Don Bosco - Colle Don Bosco","url":"http://www.comune.castelnuovodonbosco.at.it"},"080d79e4-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481155200000","type":"enogastronomia","title":"Bagna Cauda Gruppo Alpini","content":"Pino d'Asti","url":"http://www.comune.pinodasti.at.it"},"080d79e5-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481155200000","type":"enogastronomia","title":"Porchetta nel Circolo","content":"Montafia - Circolo Anspi Don Bosco","url":"http://www.comune.montafia.at.it"},"080d79e6-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481155200000","type":"feste","title":"\"Turnuma a viè\" ","content":"Cantarana","url":null},"080d79e7-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481155200000","type":"fiere-mercati-e-tartufo","title":"Festa dell'Immacolata - Natale an Soran - a Vezzolano - Mercatino di Natale e Presepe di Anna Rosa Nicola","content":"Albugnano - Canonica di Santa Maria di Vezzolano  (Presepe visitabile fino a fine Gennaio 2017)","url":"http://www.lacabalesta.it"},"080d79e8-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481155200000","type":"fiere-mercati-e-tartufo","title":"Mercatino di Natale","content":"Mombercelli - Piazza Alfieri","url":"http://www.comune.mombercelli.at.it/"},"080da0f0-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481155200000","type":"fiere-mercati-e-tartufo","title":"Mercatino di Natale","content":"Baldichieri d'Asti","url":"http://www.comune.baldichieridasti.at.it"},"080e1620-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481241600000","type":"eventi-culturali","title":"Rassegna autunnale di films d'autore - \"Il Clan\"","content":"San Damiano d'Asti - Cinema Cristallo ore 21","url":null},"080e1621-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481328000000","type":"eventi-culturali","title":" Rassegna cinematografica \"La fabbrica di cioccolato\" - L'era glaciale. In rotta di collisione","content":"Asti - Sala Pastrone ore 15.30","url":"http://www.salapastrone.it"},"080eb260-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481328000000","type":"eventi-culturali","title":"\"Gelindo Ritorna!!!\" ","content":"Asti - Frazione Castiglione","url":"http://www.castiglioneasti.it"},"080eb261-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481328000000","type":"feste-patronali-e-religiose","title":"10/11 Presepe vivente","content":"San Damiano d'Asti","url":"http://www.comune.sandamiano.at.it/"},"080eb262-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481414400000","type":"eventi-culturali","title":"\"Angelicamente anarchici\" - Stagione Teatrale 2016/2017 ","content":"Asti - Teatro Alfieri ore 21","url":"http://www.comune.asti.it/archivio6_eventi-in-agenda_0_2389_2_7.html"},"080eb263-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481414400000","type":"eventi-culturali","title":"Stagione Teatrale di Prosa 2016/2017 - \"In Chopin\"","content":"Moncalvo - Teatro Civico - ore 18","url":null},"080eb264-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481414400000","type":"eventi-culturali","title":" Palazzo Mazzetti for Kids - \"Benvenuti nella magica casa di Babbo Natale\" (7-12anni)","content":"Asti - Palazzo Mazzetti ore 15.30","url":"http://www.palazzomazzetti.it"},"080eb265-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481414400000","type":"fiere-mercati-e-tartufo","title":"11/12 Fiera storica del Cappone","content":"San Damiano d'Asti","url":"http://www.comune.sandamiano.at.it/"},"080ed970-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481414400000","type":"feste","title":"Nocciola day","content":"Castellero","url":"http://www.comune.castellero.at.it/"},"08103900-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481414400000","type":"fiere-mercati-e-tartufo","title":"Natale in Bancarella","content":"San Paolo Solbrito","url":"http://www.comune.sanpaolosolbrito.at.it"},"08103901-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481414400000","type":"fiere-mercati-e-tartufo","title":"Mercatini di Natale","content":"Roccaverano","url":null},"08103902-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481846400000","type":"eventi-culturali","title":"\"Finchè giudice non ci separi\" - Stagione Teatrale 2016/2017 ","content":"Asti - Teatro Alfieri ore 21","url":"http://www.comune.asti.it/archivio6_eventi-in-agenda_0_2389_2_7.html"},"08103903-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481932800000","type":"eventi-culturali","title":"Asti in concerto \"Trio Satie\"","content":"Asti - Archivio di Stato - Sala del Coro B. Alfieri ore 21.15","url":"http://www.filarmonicoastigiano.com/index_asti16.html"},"08106010-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481932800000","type":"eventi-culturali","title":"Rassegna cinematografica \"La fabbrica di cioccolato\" - Alla ricerca di Dory","content":"Asti - Sala Pastrone ore 15.30","url":"http://www.salapastrone.it"},"08106011-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481932800000","type":"eventi-culturali","title":"\"Gelindo Ritorna!!!\" ","content":"Asti - Frazione Castiglione","url":"http://www.castiglioneasti.it"},"08106012-a044-11e6-9b3f-052c8202871d":{"timestamp":"1481932800000","type":"feste","title":"Aspettando il Natale","content":"Cortandone","url":"http://www.comune.cortandone.at.it/"},"08106013-a044-11e6-9b3f-052c8202871d":{"timestamp":"1482019200000","type":"eventi-culturali","title":"Nizza d'Autore - \"Joseph e la strabiliante tunica dei sogni in technicolors\"","content":"Nizza Monferrato ","url":"http://www.comune.nizza.asti.it/"},"08106014-a044-11e6-9b3f-052c8202871d":{"timestamp":"1482019200000","type":"enogastronomia","title":"Distribuzione di Trippa e Ceci di San Lazzaro","content":"Portacomaro","url":"http://www.comune.portacomaro.at.it"},"08106015-a044-11e6-9b3f-052c8202871d":{"timestamp":"1482019200000","type":"fiere-mercati-e-tartufo","title":"Mercatino dell'Antiquariato e dell'Agricoltura","content":"Nizza Monferrato","url":"http://www.comune.nizza.asti.it"},"08108720-a044-11e6-9b3f-052c8202871d":{"timestamp":"1482364800000","type":"eventi-culturali","title":"\"Concerto gospel\" - Stagione Teatrale 2016/2017 ","content":"Asti - Teatro Alfieri ore 21","url":"http://www.comune.asti.it/archivio6_eventi-in-agenda_0_2389_2_7.html"},"08108721-a044-11e6-9b3f-052c8202871d":{"timestamp":"1482451200000","type":"eventi-culturali","title":"Concerto di Natale della Banda Municipale","content":"Portacomaro","url":"http://www.comune.portacomaro.at.it"},"08108722-a044-11e6-9b3f-052c8202871d":{"timestamp":"1482537600000","type":"feste-patronali-e-religiose","title":"Presepe Vivente","content":"Scurzolengo","url":"http://www.comune.scurzolengo.at.it"},"08108723-a044-11e6-9b3f-052c8202871d":{"timestamp":"1482537600000","type":"feste-patronali-e-religiose","title":"Presepe Vivente","content":"Montegrosso d'Asti","url":"http://www.comune.montegrossodasti.at.it/servizi/notizie/notizie_homepage.aspx"},"08108724-a044-11e6-9b3f-052c8202871d":{"timestamp":"1482537600000","type":"feste-patronali-e-religiose","title":"Presepe Vivente, panettone e vin brulè","content":"Castelnuovo Don Bosco ","url":"http://www.comune.castelnuovodonbosco.at.it"},"08108725-a044-11e6-9b3f-052c8202871d":{"timestamp":"1482537600000","type":"feste-patronali-e-religiose","title":"Presepe Vivente","content":"Cessole","url":"http://www.comune.cessole.at.it"},"0810ae30-a044-11e6-9b3f-052c8202871d":{"timestamp":"1482537600000","type":"feste-patronali-e-religiose","title":"Sacra Rappresentazione della Natività","content":"Revigliasco d'Asti","url":"http://www.presepeviventerevigliasco.it"},"0810ae31-a044-11e6-9b3f-052c8202871d":{"timestamp":"1482537600000","type":"enogastronomia","title":"Distribuzione cioccolato","content":"Asti - Sagrato della Chiesa Don Bosco dopo la Messa di mezzanotte","url":"http://www.sbandieratoridonbosco.net"},"0810d540-a044-11e6-9b3f-052c8202871d":{"timestamp":"1482537600000","type":"feste","title":"Falò di Natale","content":"Valfenera","url":"http://www.comune.valfenera.at.it/"},"0810d541-a044-11e6-9b3f-052c8202871d":{"timestamp":"1482537600000","type":"feste","title":"\"Auguri a tucc\"","content":"Asti - Frazione Castiglione","url":"http://www.castiglioneasti.it"},"0810d542-a044-11e6-9b3f-052c8202871d":{"timestamp":"1482537600000","type":"feste","title":"Auguri di Natale","content":"Rocchetta Palafea","url":"http://www.comune.rocchettapalafea.at.it/"}
+
+
+
+
+  }
+}

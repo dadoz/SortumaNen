@@ -7,4 +7,5 @@
     <dimen name="font_size_24">24sp</dimen>
     <dimen name="max_width_content_type_filter">60dp</dimen>
     <dimen name="padding_8">8dp</dimen>
+    <dimen name="minCardHeight">150dp</dimen>
 </resources>

@@ -5,22 +5,24 @@
     <RelativeLayout
         android:id="@+id/eventFilterContainerId"
         android:layout_width="match_parent"
-        android:layout_height="40dp">
+        android:layout_height="wrap_content">
         <TextView
             android:layout_alignParentRight="true"
             android:layout_centerVertical="true"
             android:layout_marginRight="@dimen/padding_16"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:padding="@dimen/padding_16"
+            android:background="?selectableItemBackground"
             android:text="@string/filters"
-            android:textColor="@color/amber_600"
+            android:textColor="@color/red_400"
             android:textSize="14sp"/>
     </RelativeLayout>
-    <!--<include layout="@layout/event_filters_layout"/>-->
+    <include layout="@layout/event_filters_layout" android:visibility="gone"/>
     <android.support.v7.widget.RecyclerView
+        android:background="@color/grey_900"
         android:layout_below="@id/eventFilterContainerId"
         android:id="@+id/eventRecyclerviewId"
-        android:paddingTop="@dimen/padding_16"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
     </android.support.v7.widget.RecyclerView>
