@@ -3,10 +3,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     <RelativeLayout
-        android:id="@+id/eventFilterContainerId"
+        android:id="@+id/eventFilterLabelContainerId"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:background="@color/red_400">
         <TextView
+            android:id="@+id/filtersButtonId"
             android:layout_alignParentRight="true"
             android:layout_centerVertical="true"
             android:layout_marginRight="@dimen/padding_16"
@@ -15,16 +17,22 @@
             android:padding="@dimen/padding_16"
             android:background="?selectableItemBackground"
             android:text="@string/filters"
-            android:textColor="@color/red_400"
+            android:textColor="@color/pink_900"
             android:textSize="14sp"/>
     </RelativeLayout>
-    <include layout="@layout/event_filters_layout" android:visibility="gone"/>
-    <android.support.v7.widget.RecyclerView
-        android:background="@color/grey_900"
-        android:layout_below="@id/eventFilterContainerId"
-        android:id="@+id/eventRecyclerviewId"
+    <!--<include layout="@layout/event_filters_layout" android:visibility="gone"/>-->
+    <FrameLayout
+        android:id="@+id/eventMainContentFrameLayoutId"
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
-    </android.support.v7.widget.RecyclerView>
+        android:layout_height="match_parent"
+        android:background="@color/grey_900"
+        android:layout_below="@id/eventFilterLabelContainerId"
+        android:animateLayoutChanges="true">
+        <android.support.v7.widget.RecyclerView
+            android:layout_marginTop="@dimen/padding_16"
+            android:id="@+id/eventRecyclerviewId"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </FrameLayout>
 
 </RelativeLayout>

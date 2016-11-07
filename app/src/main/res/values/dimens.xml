@@ -8,4 +8,7 @@
     <dimen name="max_width_content_type_filter">60dp</dimen>
     <dimen name="padding_8">8dp</dimen>
     <dimen name="minCardHeight">150dp</dimen>
+    <dimen name="padding_40">40dp</dimen>
+    <dimen name="padding_30">30dp</dimen>
+    <dimen name="font_size_30">30sp</dimen>
 </resources>
