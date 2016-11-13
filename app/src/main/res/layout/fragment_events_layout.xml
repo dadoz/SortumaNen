@@ -6,6 +6,7 @@
         android:id="@+id/eventFilterLabelContainerId"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:elevation="4dp"
         android:background="@color/red_400">
         <TextView
             android:id="@+id/filtersButtonId"
@@ -20,12 +21,10 @@
             android:textColor="@color/pink_900"
             android:textSize="14sp"/>
     </RelativeLayout>
-    <!--<include layout="@layout/event_filters_layout" android:visibility="gone"/>-->
     <FrameLayout
         android:id="@+id/eventMainContentFrameLayoutId"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@color/grey_900"
         android:layout_below="@id/eventFilterLabelContainerId"
         android:animateLayoutChanges="true">
         <android.support.v7.widget.RecyclerView

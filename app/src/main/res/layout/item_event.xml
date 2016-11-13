@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
-    app:cardBackgroundColor="@color/cardview_dark_background"
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:minHeight="60dp"
     android:layout_marginBottom="@dimen/padding_16"
     android:layout_marginLeft="@dimen/padding_16"
     android:layout_marginRight="@dimen/padding_16"
-    android:layout_height="wrap_content">
+    android:layout_height="wrap_content"
+    android:foreground="?attr/selectableItemBackground">
 
     <RelativeLayout
         android:layout_width="match_parent"
@@ -21,7 +21,7 @@
             android:background="@color/indigo_400"/>
         <ImageView
             android:id="@+id/eventImageId"
-            android:layout_width="120dp"
+            android:layout_width="@dimen/minCardHeight"
             android:layout_height="@dimen/minCardHeight"
             android:scaleType="centerCrop"
             android:src="@drawable/castle"
@@ -40,8 +40,8 @@
                 android:textColor="@color/indigo_400"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="12sp"
-                android:maxWidth="70dp"
+                android:textSize="@dimen/text_14"
+                android:maxWidth="@dimen/max_width_event_type"
                 android:ellipsize="end"
                 android:maxLines="1"
                 android:text="type"/>
@@ -50,7 +50,7 @@
                 android:textColor="@color/grey_900"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:textSize="12sp"
+                android:textSize="@dimen/text_14"
                 android:text="timestamp"
                 android:layout_alignParentRight="true"
                 android:layout_alignParentEnd="true"
@@ -58,14 +58,14 @@
 
             <TextView
                 android:id="@+id/eventTitleId"
-                android:textColor="@color/grey_50"
+                android:textColor="@color/red_400"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:minLines="2"
-                android:maxLines="3"
+                android:maxLines="2"
                 android:ellipsize="end"
                 android:text="title event"
-                android:textSize="20sp"
+                android:textSize="@dimen/text_24"
                 android:layout_below="@id/eventTimestampId"
                 android:layout_marginTop="@dimen/padding_8"
                 android:layout_alignParentLeft="true"
@@ -73,24 +73,41 @@
             <TextView
                 android:id="@+id/eventContentId"
                 android:layout_below="@id/eventTitleId"
-                android:text="conent event"
+                android:text="content event"
                 android:textColor="@color/grey_900"
-                android:textSize="14sp"
+                android:layout_marginTop="@dimen/padding_8"
+                android:textSize="@dimen/text_16"
                 android:maxLines="1"
                 android:ellipsize="end"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
+            <ImageView
+                android:layout_below="@id/eventTitleId"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginTop="@dimen/padding_8"
+                android:layout_alignParentRight="true"
+                android:src="@drawable/ic_expand_more_black_18dp"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/eventExpandedContentLayoutId"
+            android:background="@color/grey_800"
+            android:layout_width="match_parent"
+            android:visibility="gone"
+            android:layout_height="60dp"
+            android:layout_below="@id/eventImageId">
             <TextView
-                android:visibility="gone"
                 android:id="@+id/eventUrlId"
-                android:layout_marginTop="8dp"
-                android:textColor="@color/grey_600"
+                android:layout_margin="@dimen/padding_16"
+                android:textColor="@color/grey_50"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_below="@id/eventContentId"
-                android:textSize="12sp"
+                android:textSize="@dimen/text_16"
                 android:text="url --------"/>
 
         </RelativeLayout>
+
     </RelativeLayout>
 </android.support.v7.widget.CardView>

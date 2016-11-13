@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/filterLayoutId"
     android:background="@color/red_400"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -19,6 +20,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/typeFilterLabelId"
+        android:scrollbars="none"
         android:layout_marginTop="@dimen/padding_8">
         <RelativeLayout
             android:layout_width="wrap_content"
@@ -28,7 +30,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textAllCaps="true"
-                android:textColor="@color/pink_900"
+                android:textColor="@color/red_400"
                 android:layout_marginRight="@dimen/padding_16"
                 android:background="@drawable/capsule_shape"
                 android:text="Eventi Culturali e Sacri"/>
@@ -40,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:background="@drawable/capsule_shape"
                 android:textAllCaps="true"
-                android:textColor="@color/pink_900"
+                android:textColor="@color/red_400"
                 android:text="Enogastronomia"/>
             <TextView
                 android:id="@+id/sagreFilterLabelId"
@@ -50,7 +52,7 @@
                 android:layout_height="wrap_content"
                 android:background="@drawable/capsule_shape"
                 android:textAllCaps="true"
-                android:textColor="@color/pink_900"
+                android:textColor="@color/red_400"
                 android:text="Sagre e e fiera tartufo"/>
             <TextView
                 android:id="@+id/teatroECinemaFilterLabelId"
@@ -59,7 +61,7 @@
                 android:layout_height="wrap_content"
                 android:background="@drawable/capsule_shape"
                 android:textAllCaps="true"
-                android:textColor="@color/pink_900"
+                android:textColor="@color/red_400"
                 android:text="Teatro e Cinema"/>
 
         </RelativeLayout>

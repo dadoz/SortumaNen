@@ -12,4 +12,5 @@
     <string name="type_filter">type</string>
     <string name="day_filter">day</string>
     <string name="month_filter">month</string>
+    <string name="no_website_availble">No website available</string>
 </resources>
